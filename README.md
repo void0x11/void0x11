@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmed Ameen
+- 👋 Hi, I’m Ahmed Amin
 - 👀 I’m interested in Cyber Security Field
 - 🌱 I’m currently learning Penetration testing & Software Development
 - 📫 How to reach me on linkedin: www.linkedin.com/in/void0x11
