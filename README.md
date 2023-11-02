@@ -6,11 +6,12 @@
 
 
 <h1 align="center"><b>Hi , I'm Void </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<br>
+<br>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1FD454&random=false&width=435&lines=Malware+Analyst;Security+Researcher;Cyber+Security+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=1FD454&random=false&width=435&lines=Malware+Analyst;Security+Researcher;Cyber+Security+Enthusiast" alt="Typing SVG" /></a>
 </p>
-
+<br>
 
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
