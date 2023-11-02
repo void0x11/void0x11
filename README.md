@@ -1,8 +1,8 @@
 # Hi there, I'm Ahmed Amin 👋
 
 ## About Me
-- 👀 I’m interested in the Cyber Security Field.
-- 🌱 I’m currently learning Penetration testing & Software Development.
+- 👀 I’m fascinated by the Cyber Security Field.
+- 🌱 I’m currently engrossed in learning Penetration Testing & Software Development.
 - 💼 Open to work opportunities in Cyber Security.
 - 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/void0x11).
 
