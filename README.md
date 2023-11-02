@@ -1,8 +1,9 @@
-<h1 align="Center">
-    <br>
-    <img src="https://github.com/void0x11/void0x11/assets/69634124/48bc4755-029e-42c0-b498-b73265e0d518" width="35">
-  <br>
-</h1>
+<div>
+
+<p align="center" >
+  <a href="https://www.linkedin.com/in/void0x11/">
+    <img src="https://github.com/void0x11/void0x11/blob/main/1.png" alt="Ahmed Amin" width="400px" height="60px" /></a>
+</p>
 
 
 <h1 align="center"><b>Hi , I'm Void </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
