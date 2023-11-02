@@ -1,12 +1,10 @@
-<div>
-
+<h1>
 <p align="center" >
   <a href="https://www.linkedin.com/in/void0x11/">
     <img src="https://github.com/void0x11/void0x11/blob/main/1.png" alt="Ahmed Amin" width="400px" height="60px" /></a>
 </p>
+</h1>
 
-
-<h1 align="center"><b>Hi , I'm Void </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <br>
 <p align="center">
