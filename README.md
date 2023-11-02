@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">I’m fascinated by the Cyber Security.</h3>
 
+<div>
+
+<p align="center" >
+  <a href="https://www.linkedin.com/in/abdelmawla-elamrosy">
+    <img src="https://github.com/0xDigimon/0xdigimon/blob/main/amrosy.png" alt="Abdelmawla Elamrosy" width="400px" height="60px" /></a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=void0x11&label=Profile%20views&color=0e75b6&style=flat" alt="void0x11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=void0x11" alt="void0x11" /></a> </p>
