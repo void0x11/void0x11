@@ -20,12 +20,10 @@
 
 
 
-- 👋 Hi, I’m @MdAmiruddin
+- 👋 Hi, I’m Ahmed
 - 👀 I’m a CyberSecurity Enthusiast.
-- 🌱 I’m currently learning with Google.
+- 🌱 I’m currently learning at SUU
 - 💞️ I’m looking to collaborate with cybersecurity python projects.
-- 📫 How to reach me .. By my youtube [channel](https://bit.ly/3yeJeS9).
-- 📝 I write CTF [Blog](https://mdamiruddin.github.io) and articles on [Medium](https://mdamiruddin.medium.com).
 - Feel free to connect with me on Linkedin.
 - Learning new technologies everyday to become better than my past self.
  
