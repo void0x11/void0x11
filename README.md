@@ -56,8 +56,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/MdAmiruddin/MdAmiruddin">
-  <img  src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg"
+  <a href="https://github.com/void0x11/void0x11/">
+  <img  src="https://github.com/void0x11/void0x11/blob/main/gridsnake.svg"
        alt="snake" /></a>
 </div>
 
