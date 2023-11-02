@@ -21,9 +21,6 @@
 - 💞️ I’m looking to collaborate with Malware Analysis projects.
 - Feel free to connect with me on Linkedin.
 - Learning new technologies everyday to become better than my past self.
- 
- 
-<br>
 
 
 
