@@ -1,9 +1,31 @@
-- 👋 Hi, I’m Ahmed Amin
-- 👀 I’m interested in Cyber Security Field
-- 🌱 I’m currently learning Penetration testing & Software Development
-- 📫 How to reach me on linkedin: www.linkedin.com/in/void0x11
+# Hi there, I'm Ahmed Amin 👋
 
-<!---
-ahmedameen09/ahmedameen09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 👀 I’m interested in the Cyber Security Field.
+- 🌱 I’m currently learning Penetration testing & Software Development.
+- 💼 Open to work opportunities in Cyber Security.
+- 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/void0x11).
+
+## Skills
+- Penetration Testing
+- Web Application Security
+- Network Security
+- Python
+- C/C++
+- Java
+- HTML/CSS
+
+## Projects
+- [Project 1](link-to-project1): Short description of the project.
+- [Project 2](link-to-project2): Short description of the project.
+- [Project 3](link-to-project3): Short description of the project.
+
+## Github Stats
+![Ahmed Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=void0x11&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void0x11&layout=compact)
+
+## Connect with Me
+- LinkedIn: [Ahmed Amin](https://www.linkedin.com/in/void0x11)
+- Twitter: [Void0x11](https://twitter.com/void0x11)
