@@ -1,27 +1,67 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">I’m fascinated by the Cyber Security.</h3>
+<!DOCTYPE html>
+<html lang="en">
 
-<div align="center">
-    <!-- Visitor Count -->
-    <h4 align="center">Visitor's count :eyes:</h4>
-    <p align="center"><img src="https://profile-counter.glitch.me/{0xDigimon}/count.svg"
-            alt="0xDigimon :: Visitor's Count" />
-    </p>
-</div>
-    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Amin - Cyber Security Enthusiast</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #0f0f0f;
+            color: #00ff00;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
 
+        .container {
+            text-align: center;
+        }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=void0x11&label=Profile%20views&color=0e75b6&style=flat" alt="void0x11" /> </p>
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=void0x11" alt="void0x11" /></a> </p>
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/void0x10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="void0x10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/void0x11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="void0x11" height="30" width="40" /></a>
-</p>
+        a {
+            color: #00ff00;
+            text-decoration: none;
+        }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+        a:hover {
+            color: #4aff00;
+        }
+    </style>
+</head>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=void0x11&" alt="void0x11" /></p>
+<body>
+    <div class="container">
+        <h1>Hello, fellow Hacker! I'm Ahmed Amin 👨‍💻</h1>
+
+        <p>
+            Intrigued by the enigmatic world of <span style="color: #4aff00;">Cyber Security</span>. Currently delving into the realms of <span style="color: #4aff00;">Penetration Testing</span> & <span style="color: #4aff00;">Software Development</span>.
+        </p>
+
+        <p>
+            Open to captivating job opportunities in <span style="color: #4aff00;">Cyber Security</span>. Connect with me on <a href="https://www.linkedin.com/in/void0x11" target="_blank" rel="noopener noreferrer" style="color: #4aff00;">LinkedIn</a> for stimulating discussions.
+        </p>
+
+        <p>Skills: Penetration Testing, Web Application Security, Network Security, Python, C/C++, Java, HTML/CSS</p>
+
+        <p>Check out my <a href="link-to-project1" style="color: #4aff00;">Project 1</a>, <a href="link-to-project2" style="color: #4aff00;">Project 2</a>, and <a href="link-to-project3" style="color: #4aff00;">Project 3</a>.</p>
+
+        <p>GitHub: <a href="https://github.com/void0x11" style="color: #4aff00;">void0x11</a></p>
+        <p>Twitter: <a href="https://twitter.com/void0x11" style="color: #4aff00;">@void0x11</a></p>
+    </div>
+</body>
+
+</html>
