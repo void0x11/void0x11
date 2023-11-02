@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">I’m fascinated by the Cyber Security.</h3>
 
-<div>
-
-<p align="center" >
-  <a href="https://www.linkedin.com/in/abdelmawla-elamrosy">
-    <img src="https://github.com/0xDigimon/0xdigimon/blob/main/amrosy.png" alt="Abdelmawla Elamrosy" width="400px" height="60px" /></a>
-</p>
+<div align="center">
+    <!-- Visitor Count -->
+    <h4 align="center">Visitor's count :eyes:</h4>
+    <p align="center"><img src="https://profile-counter.glitch.me/{0xDigimon}/count.svg"
+            alt="0xDigimon :: Visitor's Count" />
+    </p>
+  <img src="http://www.hackthebox.eu/badge/image/1385517" alt="Hack The Box" align="center" width="30%" hight="30%"/>
+<a href="https://0xDigimon.github.io/Digimon">
+   <img src="https://github.com/0xDigimon/0xdigimon/blob/main/PSX_20221212_132729.jpg" align="right" width="30%"/>
+</a>
+</div>
+    
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=void0x11&label=Profile%20views&color=0e75b6&style=flat" alt="void0x11" /> </p>
