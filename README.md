@@ -26,7 +26,7 @@
 ## :triangular_flag_on_post: CTF profiles:
 
 <div align="center">
- <a href="https://tryhackme.com/p/lordofficial"><img src="https://tryhackme-badges.s3.amazonaws.com/lordofficial.png" alt="TryHackMe"></a>
+ <a href="https://tryhackme.com/p/void0x11"><img src="https://github.com/void0x11/void0x11/blob/main/tryhackme.png" alt="TryHackMe"></a>
  <a href="https://app.hackthebox.com/profile/1188714"><img src="https://www.hackthebox.com/badge/image/1188714" alt="HackTheBox"></a>
 </div>
 
