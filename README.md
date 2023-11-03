@@ -54,20 +54,7 @@
 <p align="center">
   <img align="center" src="https://github-contributor-stats.vercel.app/api?username=void0x11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width=500 height=250 />
 </p>
- 
-<br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
 <br>
-
-<div align="center">
-  <a href="https://github.com/void0x11/void0x11/">
-  <img  src="https://github.com/void0x11/void0x11/blob/main/gridsnake.svg"
-       alt="snake" /></a>
-</div>
-</a>
-</div>
-<br>
-
 
 ## 🌐 Socials:
