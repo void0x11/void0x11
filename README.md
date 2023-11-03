@@ -40,11 +40,11 @@
 <p align="center">
   <a href="https://github.com/void0x11">
     <!-- Card 1: GitHub Stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width=400 height=200 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width=400 height=250 />
   </a>
   <a href="https://github.com/void0x11">
     <!-- Card 2: GitHub Streak Stats -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=void0x11&theme=tokyonight&hide_border=false" width=400 height=200 />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=void0x11&theme=tokyonight&hide_border=false" width=400 height=250 />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=void0x11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width=600 height=400 />
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=void0x11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width=500 height=250 />
 </p>
  
 <br>
