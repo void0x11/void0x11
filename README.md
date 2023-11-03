@@ -38,7 +38,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=void0x11&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=void0x11&theme=tokyonight&hide_border=false) align="right"<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 
