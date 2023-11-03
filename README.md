@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://github.com/void0x11">
     <!-- Card 1: GitHub Stats -->
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/void0x11">
     <!-- Card 2: GitHub Streak Stats -->
