@@ -58,16 +58,9 @@
   <img  src="https://github.com/void0x11/void0x11/blob/main/gridsnake.svg"
        alt="snake" /></a>
 </div>
-
-
 </a>
 </div>
-
 <br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdamiruddin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://mdamiruddin.medium.com) 
-
-
-![](https://visitcount.itsvg.in/api?id=MdAmiruddin&icon=2&color=1)
