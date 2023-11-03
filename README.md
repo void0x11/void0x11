@@ -52,7 +52,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=void0x11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width=400 height=200 />
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=void0x11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width=600 height=400 />
 </p>
  
 <br>
