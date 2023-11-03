@@ -37,9 +37,21 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=void0x11&theme=tokyonight&hide_border=false) align="right"<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/void0x11">
+    <!-- Card 1: GitHub Stats -->
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/void0x11">
+    <!-- Card 2: GitHub Streak Stats -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=void0x11&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/void0x11">
+    <!-- Card 3: Top Languages -->
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </a>
+</p>
+
 <br>
 
 ### 🔝 Top Contributed Repo
