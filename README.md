@@ -50,8 +50,23 @@
 
 <br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=void0x11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<table>
+  <tr>
+    <!-- Top Languages -->
+    <td>
+      <a href="https://github.com/void0x11">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+      </a>
+    </td>
+    <!-- Top Contributed Repo -->
+    <td>
+      <a href="https://github.com/void0x11">
+        <img src="https://github-contributor-stats.vercel.app/api?username=void0x11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
  
