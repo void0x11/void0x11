@@ -9,13 +9,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/void0x"><img width="32px" alt="Facebook" title="Facebook" src="https://user-images.githubusercontent.com/59813937/234152031-754538e3-3e99-4439-bf9c-e537e53bfd62.png"/></a>
+  <a href="https://www.facebook.com/void0x"><img width="32px" alt="Facebook" title="Facebook" src="https://github.com/void0x11/void0x11/blob/main/facebook.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/abdelmawla-elamrosy/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://user-images.githubusercontent.com/59813937/234152096-a073220d-b5ab-43cb-8c79-29f8728cdd81.png"/></a>
+  <a href="https://www.linkedin.com/in/void0x11/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://app.hackthebox.com/profile/1385517"><img width="32px" alt="HTB" title="HTB" src="https://github.com/0xDigimon/0xdigimon/blob/main/download%20(1).png"></a>
+  <a href="https://twitter.com/void0x10"><img width="32px" alt="X" title="X" src="https://github.com/void0x11/void0x11/blob/main/twitter-circle.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:Abdelmawlaelamrosy@gmail.com"><img width="32px" alt="Mail" title="Mail" src="https://user-images.githubusercontent.com/59813937/234151856-09f243a3-d6e4-4072-a8b6-f34cb135e00a.png"/></a>
+  <a href="mailto:ahmedmohamed6071@gmail.com"><img width="32px" alt="Mail" title="Mail" src="https://github.com/void0x11/void0x11/blob/main/gmail.svg"/></a>
 </p>
 
 
