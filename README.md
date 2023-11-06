@@ -18,7 +18,7 @@
 <div align="center">
     <!-- Visitor Count -->
     <h4 align="center">Visitor's count :eyes:</h4>
-    <p align="center"><img src="https://profile-counter.glitch.me/{void0x11}/count.svg"
+    <p align="center"><img src="https://github.com/void0x11/void0x11/blob/main/icegif.gif" width=400 height=400 /> 
             alt="void0x11 :: Visitor's Count" />
     </p>
 </div>
