@@ -24,7 +24,7 @@
 </div>
 
 ## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/icegif.gif" width=300 height=300></picture>
+<picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/giphy.gif"></picture>
 
 - 👋 Hi, I’m Void
 - 👀 I’m a CyberSecurity Enthusiast.
