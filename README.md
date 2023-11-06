@@ -18,13 +18,13 @@
 <div align="center">
     <!-- Visitor Count -->
     <h4 align="center">Visitor's count :eyes:</h4>
-    <p align="center"><img src="https://github.com/void0x11/void0x11/blob/main/icegif.gif" width=400 height=400 /> 
+    <p align="center"><img src="" /> 
             alt="void0x11 :: Visitor's Count" />
     </p>
 </div>
 
 ## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/icegif.gif"></picture>
+<picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/icegif.gif" width=400 height=400></picture>
 
 - 👋 Hi, I’m Void
 - 👀 I’m a CyberSecurity Enthusiast.
