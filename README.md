@@ -27,7 +27,7 @@
 <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/giphy.gif"></picture>
 
 - 👋 Hi, I’m Void
-- 👀 I’m a CyberSecurity Enthusiast.
+- 👀 I’m a Computer Enthusiast.
 - 🌱 I’m currently studying at SUU
 - 💞️ I’m looking to collaborate with Malware Analysis projects.
 - Feel free to connect with me on Linkedin.
