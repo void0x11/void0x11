@@ -29,7 +29,7 @@
 - 👋 Hi, I’m Void
 - 👀 I’m a Computer Enthusiast.
 - 🌱 I’m currently studying at SUU
-- 💞️ I’m looking to collaborate with Malware Analysis projects.
+- 💞️ I’m looking to collaborate with Embedded, Electronics or Antenna Projects.
 - Feel free to connect with me on Linkedin.
 - Learning new technologies everyday to become better than my past self.
 
