@@ -23,7 +23,7 @@
     </p>
     <p>
       They will know True Fear
-    <\p>
+    </p>
 </div>
 
 ## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/about_me.gif" width = 50px></picture> **About me**
