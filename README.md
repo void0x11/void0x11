@@ -29,7 +29,7 @@
 - 👋 Hi, I’m Void
 - 👀 I’m a Tech Enthusiast.
 - 🌱 I’m currently studying at SUU
-- 💞️ I’m looking to collaborate with Embedded, Electronics or Security Projects.
+- 💞️ I’m looking to collaborate with Embedded, Electronics or Cyber Security Projects.
 - Feel free to connect with me on Linkedin.
 - Learning new technologies everyday to become better than my past self.
 
