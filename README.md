@@ -56,15 +56,15 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="100" style="margin-right: 100px;" />
 
   <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="100" style="margin-right: 80px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="100" style="margin-right: 70px;" />
   <!-- R -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" width="100" style="margin-right: 80px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" width="100" style="margin-right: 70px;" />
   <!-- MATLAB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB icon" width="100" style="margin-right: 80px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB icon" width="100" style="margin-right: 70px;" />
   <!-- Ruby -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby icon" width="100" style="margin-right: 80px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby icon" width="100" style="margin-right: 70px;" />
   <!-- ASM -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/ASM_Logo.svg" alt="ASM logo" width="100" style="margin-right: 80px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/ASM_Logo.svg" alt="ASM logo" width="100" style="margin-right: 70px;" />
 </div>
 
 
