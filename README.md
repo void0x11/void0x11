@@ -53,7 +53,6 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
   
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
@@ -61,6 +60,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
   <!-- MATLAB -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" />
+  <!-- Ruby -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
+  <!-- Assembly (generic gear icon, no standard logo) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/3523/3523063.png" alt="Assembly icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" />
 </div>
 
 <br>
