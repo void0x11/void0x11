@@ -64,7 +64,7 @@
   <!-- Ruby -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby icon" width="100" style="margin-right: 70px;" />
   <!-- ASM -->
-  <img src="https://github.com/void0x11/void0x11/blob/main/ASM_Logo.svg" alt="ASM logo" width="100" style="margin-right: 70px;" />
+  <img src="https://github.com/void0x11/void0x11/blob/main/ASM_Logo.svg" alt="ASM logo" width="100" style="margin-right: 100px;" />
 </div>
 
 
