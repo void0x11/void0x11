@@ -63,7 +63,7 @@
   <!-- Ruby -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
   <!-- Assembly (generic gear icon, no standard logo) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Assembly_language_icon.png" alt="Assembly icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/ASM_Logo.svg" alt="ASM logo" width="100" style="margin-right: 0px;" />
 
 </div>
 
