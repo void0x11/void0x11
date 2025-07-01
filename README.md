@@ -45,25 +45,28 @@
 
 
 # 💻 Tech Stack:
-<div style="display: flex;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
-  
+<div style="display: flex; align-items: center;">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="100" style="margin-right: 100px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="100" style="margin-right: 100px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="100" style="margin-right: 100px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="100" style="margin-right: 100px;" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="100" style="margin-right: 100px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="100" style="margin-right: 100px;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="100" style="margin-right: 100px;" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="100" style="margin-right: 100px;" />
+
   <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="100" style="margin-right: 100px;" />
   <!-- R -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" width="100" style="margin-right: 100px;" />
   <!-- MATLAB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB icon" width="100" style="margin-right: 100px;" />
   <!-- Ruby -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
-  <!-- Assembly (generic gear icon, no standard logo) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby icon" width="100" style="margin-right: 100px;" />
+  <!-- ASM -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/ASM_Logo.svg" alt="ASM logo" width="100" style="margin-right: 0px;" />
+</div>
+
 
 </div>
 
