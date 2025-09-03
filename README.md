@@ -30,14 +30,14 @@
 
 <br>
 <br>
-
+<--
 ## :triangular_flag_on_post: CTF profiles:
 
 <div align="center">
  <a href="https://tryhackme.com/p/void0x11"><img src="https://tryhackme-badges.s3.amazonaws.com/void0x11.png" height=50 alt="TryHackMe"></a>
  <a href="https://app.hackthebox.com/profile/839521"><img src="https://www.hackthebox.com/badge/image/839521" height=50 alt="HackTheBox"></a>
 </div>
-
+-->
 
 # 💻 Tech Stack:
 <div style="display: flex; align-items: center;">
