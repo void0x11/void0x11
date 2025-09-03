@@ -5,35 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ahmed Amin | GitHub Profile</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        
-        body {
-            background-color: #0d1117;
-            color: #c9d1d9;
-            padding: 20px;
-            max-width: 1000px;
-            margin: 0 auto;
-        }
-        
-        .header {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        
-        .logo {
-            margin-bottom: 20px;
-        }
-        
-        .logo img {
-            max-width: 400px;
-            height: auto;
-        }
-        
+        /* Custom typing animation styling */
         .typing-container {
             margin: 30px 0;
             min-height: 65px;
@@ -63,81 +35,30 @@
             50% { opacity: 0; }
         }
         
-        .social-icons {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin: 30px 0;
+        /* Additional styling for better presentation */
+        body {
+            max-width: 900px;
+            margin: 0 auto;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            padding: 20px;
+            color: #c9d1d9;
+            background-color: #0d1117;
         }
         
-        .social-icons a {
-            display: inline-block;
-            transition: transform 0.3s ease;
-        }
-        
-        .social-icons a:hover {
-            transform: scale(1.2);
-        }
-        
-        .social-icons img {
-            width: 32px;
-            height: 32px;
-        }
-        
-        .signature {
-            margin: 40px 0;
+        .header {
             text-align: center;
-        }
-        
-        .signature img {
-            max-width: 500px;
-            width: 100%;
-            height: auto;
+            margin-bottom: 30px;
         }
         
         .section {
             margin: 40px 0;
-            padding: 20px;
-            background-color: #161b22;
-            border-radius: 10px;
-        }
-        
-        .section-title {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px;
-            font-size: 24px;
-            color: #58a6ff;
-        }
-        
-        .section-title img {
-            margin-right: 10px;
-        }
-        
-        .about-content {
-            display: flex;
-            align-items: flex-start;
-            gap: 20px;
-        }
-        
-        .about-text {
-            flex: 1;
-        }
-        
-        .about-gif {
-            flex-shrink: 0;
-        }
-        
-        .ctf-profiles {
-            text-align: center;
-            margin: 30px 0;
         }
         
         .tech-stack {
             display: flex;
             flex-wrap: wrap;
+            gap: 15px;
             justify-content: center;
-            gap: 20px;
             margin: 20px 0;
         }
         
@@ -151,7 +72,7 @@
         .tech-item img {
             width: 50px;
             height: 50px;
-            margin-bottom: 10px;
+            margin-bottom: 5px;
         }
         
         .stats {
@@ -159,79 +80,50 @@
             flex-direction: column;
             align-items: center;
             gap: 20px;
-            margin: 30px 0;
-        }
-        
-        .stats img {
-            max-width: 100%;
-            height: auto;
-        }
-        
-        @media (max-width: 768px) {
-            .about-content {
-                flex-direction: column;
-            }
-            
-            .logo img {
-                max-width: 280px;
-            }
-            
-            .typing-text {
-                font-size: 22px;
-            }
-            
-            .signature img {
-                max-width: 300px;
-            }
-            
-            .tech-stack {
-                gap: 15px;
-            }
-            
-            .tech-item {
-                width: 70px;
-            }
         }
     </style>
 </head>
 <body>
-    <!-- Header Section -->
     <div class="header">
-        <div class="logo">
+        <h1 align="center">
             <a href="https://www.linkedin.com/in/void0x11/">
-                <img src="https://github.com/void0x11/void0x11/blob/main/2.png?raw=true" alt="Ahmed Amin">
+                <img src="https://github.com/void0x11/void0x11/blob/main/2.png?raw=true" alt="Ahmed Amin" width="400px" height="60px" />
             </a>
-        </div>
-        
+        </h1>
+
+        <!-- Fixed typing animation -->
         <div class="typing-container">
             <div class="typing-text">
                 <span id="typing"></span>
                 <span class="typing-cursor"></span>
             </div>
         </div>
-        
-        <div class="social-icons">
-            <a href="https://twitter.com/void0x10" title="X">
-                <img src="https://github.com/void0x11/void0x11/blob/main/twitter-circle.svg?raw=true" alt="X">
-            </a>
-            <a href="https://www.linkedin.com/in/void0x11/" title="LinkedIn">
-                <img src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg?raw=true" alt="LinkedIn">
-            </a>
-        </div>
-        
-        <div class="signature">
-            <img src="https://github.com/void0x11/void0x11/blob/main/Logo.png?raw=true" alt="Signature">
+
+        <!-- Social icons section -->
+        <p align="center">
+            <a href="https://twitter.com/void0x10"><img width="32px" alt="X" title="X" src="https://github.com/void0x11/void0x11/blob/main/twitter-circle.svg?raw=true"></a>
+            &#8287;&#8287;&#8287;&#8287;&#8287;
+            <a href="https://www.linkedin.com/in/void0x11/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg?raw=true"/></a>
+            &#8287;&#8287;&#8287;&#8287;&#8287;
+        </p>
+
+        <div align="center">
+            <picture> 
+                <img align="center" src="https://github.com/void0x11/void0x11/blob/main/Logo.png?raw=true" width="500px">
+            </picture>
         </div>
     </div>
 
-    <!-- About Me Section -->
     <div class="section">
-        <div class="section-title">
-            <img src="https://github.com/void0x11/void0x11/blob/main/about_me.gif?raw=true" width="50" alt="About me">
-            <h2>About me</h2>
-        </div>
-        <div class="about-content">
-            <div class="about-text">
+        <h2 align="center">
+            <picture>
+                <img src="https://github.com/void0x11/void0x11/blob/main/about_me.gif?raw=true" width="50px">
+            </picture>
+            <b>About me</b>
+        </h2>
+        
+        <div style="display: flex; align-items: flex-start;">
+            <div style="flex: 1;">
                 <p>- 👋 Hi, I'm Void</p>
                 <p>- 👀 I'm a Tech Enthusiast.</p>
                 <p>- 🌱 I'm currently studying at SUU</p>
@@ -239,24 +131,26 @@
                 <p>- Feel free to connect with me on Linkedin.</p>
                 <p>- Learning new technologies everyday to become better than my past self.</p>
             </div>
-            <div class="about-gif">
-                <img src="https://github.com/void0x11/void0x11/blob/main/giphy.gif?raw=true" alt="Coding GIF">
+            <div>
+                <picture> 
+                    <img align="right" src="https://github.com/void0x11/void0x11/blob/main/giphy.gif?raw=true" width="200px">
+                </picture>
             </div>
         </div>
     </div>
 
-    <!-- CTF Profiles Section -->
     <div class="section">
-        <h2 class="section-title">CTF profiles:</h2>
-        <div class="ctf-profiles">
+        <h2 align="center">:triangular_flag_on_post: CTF profiles:</h2>
+        
+        <div align="center">
             <a href="https://tryhackme.com/p/void0x11"><img src="https://tryhackme-badges.s3.amazonaws.com/void0x11.png" height="50" alt="TryHackMe"></a>
             <a href="https://app.hackthebox.com/profile/839521"><img src="https://www.hackthebox.com/badge/image/839521" height="50" alt="HackTheBox"></a>
         </div>
     </div>
 
-    <!-- Tech Stack Section -->
     <div class="section">
-        <h2 class="section-title">Tech Stack:</h2>
+        <h2 align="center">💻 Tech Stack:</h2>
+        
         <div class="tech-stack">
             <div class="tech-item">
                 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++">
@@ -313,19 +207,19 @@
         </div>
     </div>
 
-    <!-- GitHub Stats Section -->
     <div class="section">
-        <h2 class="section-title">GitHub Stats:</h2>
+        <h2 align="center">📊 GitHub Stats:</h2>
+        
         <div class="stats">
             <img src="https://github-readme-stats.vercel.app/api?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=void0x11&theme=tokyonight&hide_border=false" alt="GitHub Streak">
         </div>
     </div>
 
-    <!-- Top Contributed Repo Section -->
     <div class="section">
-        <h2 class="section-title">Top Contributed Repo</h2>
-        <div class="stats">
+        <h2 align="center">🔝 Top Contributed Repo</h2>
+        
+        <div align="center">
             <img src="https://github-contributor-stats.vercel.app/api?username=void0x11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
         </div>
     </div>
@@ -374,5 +268,3 @@
             setTimeout(type, 1000);
         });
     </script>
-</body>
-</html>
