@@ -16,11 +16,7 @@
 </p>
 
 <div align="center">
-    <!-- Visitor Count -->
-    <h4 align="center">Visitor's count :eyes:</h4>
-    <p align="center"><img src="https://profile-counter.glitch.me/{void0x11}/count.svg"
-            alt="void0x11 :: Visitor's Count" />
-    </p>
+    <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/logo (2).png"></picture>
 </div>
 
 ## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/about_me.gif" width = 50px></picture> **About me**
