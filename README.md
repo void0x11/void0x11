@@ -13,9 +13,15 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/void0x11/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://voidx.site/" title="Website" target="_blank" rel="noopener noreferrer">
-  <img width="32px" src="https://github.com/void0x11/void0x11/blob/main/website.svg" alt="Website"/>
-  </a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://voidx.site/" aria-label="Website" title="Website" target="_blank" rel="noopener noreferrer">
+  <svg width="32" height="32" viewBox="0 0 24 24" role="img" style="vertical-align:middle">
+    <title>Website</title>
+    <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path d="M2 12h20" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path d="M12 2c4 4 4 16 0 20" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path d="M12 2c-4 4-4 16 0 20" fill="none" stroke="currentColor" stroke-width="2"/>
+  </svg>
+</a>&#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
 
