@@ -53,6 +53,9 @@
   <br>
   <img src="https://github.com/void0x11/void0x11/blob/main/C.png" alt="Rust icon" width="100" style="margin-right: 50px;" />
   <img src="https://github.com/void0x11/void0x11/blob/main/assembly.svg" alt="Rust icon" width="100" style="margin-right: 100px;" />
+  <img src="https://github.com/void0x11/void0x11/blob/main/rust.png" alt="Rust icon" width="100" style="margin-right: 50px;" />
+  <img src="https://github.com/void0x11/void0x11/blob/main/R.png" alt="Rust icon" width="100" style="margin-right: 50px;" />
+  <img src="https://github.com/void0x11/void0x11/blob/main/MATLAB.png" alt="Rust icon" width="100" style="margin-right: 50px;" />
   
 </div>
 
