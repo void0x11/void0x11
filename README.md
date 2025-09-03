@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-    <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/logo (2).png"></picture>
+    <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/Logo.png"></picture>
 </div>
 
 ## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/about_me.gif" width = 50px></picture> **About me**
