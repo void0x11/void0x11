@@ -65,10 +65,13 @@
   </a>
   <br>
   <br>
+
+  <p align="center">
   <a href="https://github.com/void0x11">
     <!-- Card 2: GitHub Streak Stats -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=void0x11&theme=tokyonight&hide_border=false" width=500/>
   </a>
+  
 </p>
 
 <br>
