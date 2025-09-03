@@ -50,8 +50,8 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="100" style="margin-right: 100px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="100" style="margin-right: 100px;" />
   <br>
-  <img src="https://github.com/void0x11/void0x11/blob/main/C.png" alt="Rust icon" width="80" style="margin-right: 100px;" />
-  <img src="https://github.com/void0x11/void0x11/blob/main/assembly.svg" alt="Rust icon" width="80" style="margin-right: 100px;" />
+  <img src="https://github.com/void0x11/void0x11/blob/main/C.png" alt="Rust icon" width="100" style="margin-right: 50px;" />
+  <img src="https://github.com/void0x11/void0x11/blob/main/assembly.svg" alt="Rust icon" width="100" style="margin-right: 100px;" />
   
 </div>
 
