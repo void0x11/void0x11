@@ -24,7 +24,7 @@
 
 - 👋 Hi, I’m Void
 - 👀 Tech Enthusiast | Electronics | Cybersecurity
-- 🎓 Graduated with a B.Sc. in Electrical Engineering (EE).
+- 🎓 Graduated with a B.Sc. in Electrical Engineering.
 - 📡 Interested in RF Systems, AI/Embedded Hardware, and Electronics Research
 - 💞️ I’m looking to collaborate with Embedded, Electronics or Cyber Security Projects.
 
