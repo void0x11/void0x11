@@ -49,6 +49,8 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="100" style="margin-right: 100px;" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="100" style="margin-right: 100px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="100" style="margin-right: 100px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="100" style="margin-right: 100px; />
+
 </div>
 
 
