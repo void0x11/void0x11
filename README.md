@@ -50,8 +50,9 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="100" style="margin-right: 100px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="100" style="margin-right: 100px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust icon" width="100" style="margin-right: 100px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="100" style="margin-right: 100px;" />
-  <img src="https://img.icons8.com/ios-filled/100/assembly.png" alt="Assembly icon" width="100" style="margin-right: 100px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="100" style="margin-right: 75px;" />
+  <img src="https://img.icons8.com/ios-filled/100/cpu.png" alt="Assembly icon" width="100" style="margin-right: 100px;" />
+
 
 
 
