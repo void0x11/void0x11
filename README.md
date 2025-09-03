@@ -50,7 +50,9 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="100" style="margin-right: 100px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="100" style="margin-right: 100px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust icon" width="100" style="margin-right: 100px;" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="100" style="margin-right: 100px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Intel_Logo_1968.svg" alt="x86 Assembly icon" width="100" style="margin-right: 100px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/ARM_logo_2017.svg" alt="ARM Assembly icon" width="100" style="margin-right: 100px;" />
 
 </div>
 
