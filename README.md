@@ -22,12 +22,13 @@
 ## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/giphy.gif"></picture>
 
-- 👋 Hi, I’m Void
-- 👀 I’m a Tech Enthusiast.
-- 🌱 I’m currently studying at SUU
+👋 Hi, I’m Void
+
+- 👀 Tech Enthusiast | Electronics | Cybersecurity
+- 🎓 Graduated with a B.Sc. in Electrical Engineering (EE) from SUU
+- 📡 Interested in RF Systems, AI/Embedded Hardware, and Electronics Research
 - 💞️ I’m looking to collaborate with Embedded, Electronics or Cyber Security Projects.
 - Feel free to connect with me on Linkedin.
-- Learning new technologies everyday to become better than my past self.
 
 <br>
 <br>
