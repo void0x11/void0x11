@@ -4,63 +4,8 @@
 </h1>
 
 <p align="center">
-  <span id="typing-container" style="font-family: 'Fira Code', monospace; font-size: 28px; color: #1FD454; min-height: 55px; display: block;">
-    <span id="typing-text"></span>
-    <span style="display: inline-block; width: 3px; height: 28px; background-color: #1FD454; animation: blink 1s infinite;"></span>
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1FD454&center=true&vCenter=true&random=true&width=450&height=55&lines=Researcher;Electronics+Engineer;AI%2FCyber+Enthusiast" alt="Typing SVG" />
 </p>
-
-<style>
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-</style>
-
-<script>
-  // Typing animation simulation
-  const texts = ["Researcher", "Electronics Engineer", "AI/Cyber Enthusiast"];
-  let textIndex = 0;
-  let charIndex = 0;
-  let isDeleting = false;
-  let typingDelay = 100;
-  let eraseDelay = 50;
-  let newTextDelay = 2000;
-  
-  function type() {
-    const currentText = texts[textIndex];
-    const typingElement = document.getElementById("typing-text");
-    
-    if (isDeleting) {
-      // Remove characters
-      typingElement.textContent = currentText.substring(0, charIndex - 1);
-      charIndex--;
-      typingDelay = eraseDelay;
-    } else {
-      // Add characters
-      typingElement.textContent = currentText.substring(0, charIndex + 1);
-      charIndex++;
-      typingDelay = 100;
-    }
-    
-    // Check if current text is complete
-    if (!isDeleting && charIndex === currentText.length) {
-      isDeleting = true;
-      typingDelay = newTextDelay;
-    } else if (isDeleting && charIndex === 0) {
-      isDeleting = false;
-      textIndex = (textIndex + 1) % texts.length;
-      typingDelay = 500;
-    }
-    
-    setTimeout(type, typingDelay);
-  }
-  
-  // Start the typing effect when the page loads
-  document.addEventListener("DOMContentLoaded", function() {
-    setTimeout(type, 1000);
-  });
-</script>
 
 <!-- Social icons section -->
 <p align="center">
