@@ -50,8 +50,14 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="100" style="margin-right: 100px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="100" style="margin-right: 100px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust icon" width="100" style="margin-right: 100px;" />
-  <img src="https://www.svgrepo.com/show/339041/c-language.svg" 
+<!-- الخيار الأول: شعار كتاب C (Public Domain) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/The_C_Programming_Language_logo.svg"
+     alt="C Programming Language Logo" width="100" style="margin-right:100px;" />
+
+<!-- الخيار الثاني: أيقونة SVG مفتوحة المصدر (CC0) -->
+<img src="https://www.svgrepo.com/show/339041/c-language.svg"
      alt="C Language Icon" width="100" style="margin-right:100px;" />
+
 
 
 </div>
