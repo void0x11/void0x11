@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/void0x11/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://voidx.site/" alt="Website" title="Website">
-  <img width="35px" src="https://github.com/void0x11/void0x11/blob/main/Portfolio.png"/>
+  <img width="35px" src="https://github.com/void0x11/void0x11/blob/main/Portfolio.png"/></a>
 </p>
 
 <div align="center">
