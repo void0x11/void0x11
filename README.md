@@ -50,9 +50,8 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="100" style="margin-right: 100px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="100" style="margin-right: 100px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust icon" width="100" style="margin-right: 100px;" />
-  <img src="https://www.svgrepo.com/show/339041/c-language.svg" alt="C icon" width="100" style="margin-right:100px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/…/C_Programming_Language.svg" alt="C icon" width="100" style="margin-right:100px;" />
-
+  <img src="https://www.svgrepo.com/show/339041/c-language.svg" 
+     alt="C Language Icon" width="100" style="margin-right:100px;" />
 
 
 </div>
