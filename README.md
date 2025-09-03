@@ -16,7 +16,6 @@
   <a href="https://voidx.site/" alt="Website" title="Website">
   <img width="32px" src="https://github.com/void0x11/void0x11/blob/main/Portfolio.png"/>
   </a>&#8287;&#8287;&#8287;&#8287;&#8287;
-
 </p>
 
 <div align="center">
