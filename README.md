@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://twitter.com/void0x10"><img width="32px" alt="X" title="X" src="https://github.com/void0x11/void0x11/blob/main/twitter-circle.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/void0x11/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@aminsignal" alt="Youtube" title="Youtube"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/Youtube.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/void0x11/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://voidx.site/" alt="Website" title="Website">
   <img width="32px" src="https://github.com/void0x11/void0x11/blob/main/Portfolio.png"/></a>
