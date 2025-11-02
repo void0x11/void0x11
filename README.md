@@ -24,7 +24,7 @@
     <picture> <img align="center" src="https://github.com/void0x11/void0x11/blob/main/Logo.png" width = 350px></picture>
 </div>
 
-## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/cont_wave.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/giphy.gif"></picture>
 
 - Developing **AI-driven signal fusion and target classification** frameworks for radar-based sensing and autonomous perception.  
