@@ -27,10 +27,16 @@
 ## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/giphy.gif"></picture>
 
-- 👋 Hi, I’m Ahmed
-- 🎓 Graduated with a B.Sc. in Electrical Engineering.
-- 📡 Interested in RF Systems, AI/Embedded Hardware, and Electronics Research
-- 💞️ I’m looking to collaborate with Embedded/AI, RF/SDR or Cyber Security Research Projects.
+- 🛰️ Researching dual-band SDR radar architectures that enhance UAV detection.
+- 🧠 Developing **AI-enhanced signal fusion and target classification** frameworks.
+- 💻 Writing modular DSP pipelines in **MATLAB** and **Python** for reproducible experiments.
+- ⚙️ Teaching and assisting courses on **microprocessors (ARM Cortex-M)** and **communication circuits**.
+
+Core focus areas:
+- Digital Signal Processing (DSP) & Radar Modeling  
+- Embedded Systems & PCB Design  
+- AI/ML for Sensor Data (CNNs, Transformers, Lightweight Deployment)  
+- System Integration & Experiment Automation  
 
 <br>
 <br>
