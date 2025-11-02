@@ -27,16 +27,16 @@
 ## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/giphy.gif"></picture>
 
-- Researching **AI-enhanced signal fusion and target classification** frameworks.
-- Researching **TurboPi swarm robotics project** exploring cooperative perception and decentralized decision-making using lightweight models.
-- Teaching and assisting courses on **microprocessors (ARM Cortex-M)** and **communication circuits**.
+- Developing **AI-driven signal fusion and target classification** frameworks for radar-based sensing and autonomous perception.  
+- Leading the **TurboPi Swarm Robotics Initiative**, focusing on cooperative perception and decentralized decision-making using lightweight embedded AI models.  
+- Teaching and assisting courses on **Microprocessors (ARM Cortex-M)** and **Communication Circuits**, emphasizing hands-on system design and signal analysis.
 
-Research Interests:
-- Digital Signal Processing (DSP) & Radar Modeling  
-- Embedded Systems, Real-Time Control & PCB Design  
-- AI/ML for Sensor Data and Autonomous Systems  
-- Multi-Robot Cooperation & Distributed Intelligence  
-- System Integration, Experiment Automation & Reproducible Research
+### 🔬 Research Interests
+- Radar Signal Processing & Software-Defined Radio (SDR)  
+- Embedded Systems & Real-Time Electronics  
+- Machine Learning for Sensing & Autonomy  
+- Swarm Robotics & Distributed Intelligence  
+- AI–Hardware Co-Design & Experimental Automation  
 
 <!--
 ## :triangular_flag_on_post: CTF profiles:
