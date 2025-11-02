@@ -25,7 +25,7 @@
 </div>
 
 ## <picture><img src = "https://raw.githubusercontent.com/void0x11/void0x11/main/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/nerd-emoji-nerd.gif" width = 450px></picture>
+<picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/nerd-emoji-nerd.gif" width = 350px></picture>
 
 - Developing **AI-driven signal fusion and target classification** frameworks for radar-based sensing and autonomous perception.  
 - Leading the **TurboPi Swarm Robotics Initiative**, focusing on cooperative perception and decentralized decision-making using lightweight embedded AI models.  
