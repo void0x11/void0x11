@@ -27,9 +27,9 @@
 ## <picture><img src = "https://github.com/void0x11/void0x11/blob/main/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/giphy.gif"></picture>
 
-- 🧠 Developing **AI-enhanced signal fusion and target classification** frameworks.
-- 💻 Leading a **TurboPi swarm robotics project** exploring cooperative perception and decentralized decision-making using lightweight models.
-- ⚙️ Teaching and assisting courses on **microprocessors (ARM Cortex-M)** and **communication circuits**.
+- Researching **AI-enhanced signal fusion and target classification** frameworks.
+- Researching **TurboPi swarm robotics project** exploring cooperative perception and decentralized decision-making using lightweight models.
+- Teaching and assisting courses on **microprocessors (ARM Cortex-M)** and **communication circuits**.
 
 Research Interests:
 - Digital Signal Processing (DSP) & Radar Modeling  
