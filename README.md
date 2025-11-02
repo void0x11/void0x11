@@ -29,7 +29,7 @@
 
 - Developing **AI-driven signal fusion and target classification** frameworks for radar-based sensing and autonomous perception.  
 - Leading the **TurboPi Swarm Robotics Initiative**, focusing on cooperative perception and decentralized decision-making using lightweight embedded AI models.  
-- Teaching and assisting courses on **Microprocessors (ARM Cortex-M)** and **Communication Circuits**, emphasizing hands-on system design and signal analysis.
+- Teaching and assisting courses on **Microprocessors (ARM Cortex-M)** and **Communication Circuits**.
 
 ### 🔬 Research Interests
 - Radar Signal Processing & Software-Defined Radio (SDR)  
