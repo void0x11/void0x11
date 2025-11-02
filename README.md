@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1FD454&center=true&vCenter=true&random=true&width=450&height=55&lines=Researcher;Electronics+Engineer;Malware+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1FD454&center=true&vCenter=true&random=true&width=450&height=55&lines=Researcher;Electronics+Engineer" alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
