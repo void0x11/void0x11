@@ -9,7 +9,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/void0x11/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/aminsignal/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@aminsignal" alt="Youtube" title="Youtube"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
