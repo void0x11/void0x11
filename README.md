@@ -4,11 +4,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1FD454&center=true&vCenter=true&random=true&width=450&height=55&lines=Researcher;Electronics+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1FD454&center=true&vCenter=true&random=true&width=500&height=55&lines=Researcher;Electronics+Engineer;Swarm+Robotics+Developer" alt="Typing SVG" />
 </p>
 
+<!-- System Status -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=void0x11&theme=onedark&column=7" alt="github profile trophy" /></a>
+  <a href="https://github.com/void0x11"><img src="https://img.shields.io/badge/System-ONLINE-success?style=for-the-badge&logo=linux&logoColor=white" alt="System Status"/></a>
+  <a href="https://voidlab.site"><img src="https://img.shields.io/badge/Uptime-99.9%25-blue?style=for-the-badge&logo=activitypub&logoColor=white" alt="Uptime"/></a>
 </p>
 
 <!-- Social icons section -->
@@ -25,12 +27,22 @@
   <img src="https://github.com/void0x11/void0x11/blob/main/Logo.png" width="350px">
 </div>
 
-## <picture><img src = "https://raw.githubusercontent.com/void0x11/void0x11/main/about_me.gif" width = 50px></picture> **About me**
-  <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/nerd-emoji-nerd.gif" width = 375px></picture>
+## <picture><img src = "https://raw.githubusercontent.com/void0x11/void0x11/main/about_me.gif" width = 45px></picture> **Terminal Bio**
 
-- Developing **AI-driven signal fusion and target classification** frameworks for radar-based sensing and autonomous perception.  
-- Leading the **TurboPi Swarm Robotics Initiative**, focusing on cooperative perception and decentralized decision-making using lightweight embedded AI models.  
-- Teaching and assisting courses on **Microprocessors (ARM Cortex-M)** and **Communication Circuits**.
+```bash
+user@void0x11:~$ whoami
+> Ahmed Amin | Electronics Engineer & Researcher
+
+user@void0x11:~$ cat current_mission.txt
+> Specializing in Radar Signal Processing, Swarm Robotics, and Edge AI.
+> Leading the TurboPi Swarm Initiative for decentralized perception.
+> Teaching Microprocessors (ARM Cortex-M) & Comm Circuits.
+
+user@void0x11:~$ ./status_check.sh
+[+] Creativity ........ [██████████] 100%
+[+] Caffeine Level .... [████████▒▒] 85%
+[+] System State ...... [READY_TO_CODE]
+```
 
 ### 🔬 Research Interests
 - Radar Signal Processing & Software-Defined Radio (SDR)  
