@@ -8,17 +8,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=void0x11&theme=tokyonight&no-bg=true&column=7" alt="github profile trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=void0x11&theme=onedark&column=7" alt="github profile trophy" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aminsignal/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/aminsignal/" alt="Linkedin" title="Linkedin"><img width="40px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@aminsignal" alt="Youtube" title="Youtube"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/Youtube.png"/></a>
+  <a href="https://www.youtube.com/@aminsignal" alt="Youtube" title="Youtube"><img width="40px" src="https://github.com/void0x11/void0x11/blob/main/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://voidlab.site/" alt="Personal Blog" title="Website">
-  <img width="32px" src="https://github.com/void0x11/void0x11/blob/main/blog.png"/></a>
+  <img width="40px" src="https://github.com/void0x11/void0x11/blob/main/blog.png"/></a>
 </p>
 
 <div align="center">
@@ -52,27 +52,28 @@
 
 ### 🛠️ Hardware & Embedded
 <p align="left">
-  <img src="https://github.com/void0x11/void0x11/blob/main/C.png" alt="C" width="50" style="margin-right: 15px;" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" style="margin-right: 15px;" />
-  <img src="https://github.com/void0x11/void0x11/blob/main/Assembly.png" alt="Assembly" width="50" style="margin-right: 15px;" />
-  <img src="https://github.com/void0x11/void0x11/blob/main/rust.png" alt="Rust" width="50" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
 </p>
 
 ### 📡 Signal Processing & AI
 <p align="left">
-  <img src="https://github.com/void0x11/void0x11/blob/main/MATLAB-Logo.png" alt="MATLAB" width="50" style="margin-right: 15px;" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" style="margin-right: 15px;" />
-  <img src="https://github.com/void0x11/void0x11/blob/main/R.png" alt="R" width="50" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
 ### 🌐 Software & DevOps
 <p align="left">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" style="margin-right: 15px;" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" style="margin-right: 15px;" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" style="margin-right: 15px;" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" style="margin-right: 15px;" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" style="margin-right: 15px;" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" style="margin-right: 15px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <br>
@@ -106,7 +107,3 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://github.com/void0x11/void0x11/blob/main/cont_wave.gif" width="100%" />
-</p>
