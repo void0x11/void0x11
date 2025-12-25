@@ -56,6 +56,7 @@ def generate_stats_markdown(language_totals):
     
     lines = []
     lines.append("<div align=\"center\">")
+    lines.append("<sub>")
     lines.append("")
     lines.append("```text")
     lines.append(f"📡 [SYSTEM TELEMETRY] - LAST SCAN: {now} UTC")
@@ -73,6 +74,7 @@ def generate_stats_markdown(language_totals):
         
     lines.append("--------------------------------------------------")
     lines.append("```")
+    lines.append("</sub>")
     lines.append("</div>")
     return "\n".join(lines)
 
