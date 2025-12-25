@@ -51,29 +51,29 @@ def generate_stats_markdown(language_totals):
     # Sort languages by bytes count
     sorted_languages = sorted(language_totals.items(), key=lambda x: x[1], reverse=True)
     
+    import datetime
+    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    
     lines = []
-    lines.append("<table>")
-    lines.append("  <tr>")
-    lines.append("    <th align='left'>Language</th>")
-    lines.append("    <th align='left'>Percentage</th>")
-    lines.append("    <th align='left'>Bar Graph</th>")
-    lines.append("  </tr>")
+    lines.append("<div align=\"center\">")
+    lines.append("")
+    lines.append("```text")
+    lines.append(f"📡 [SYSTEM TELEMETRY] - LAST SCAN: {now} UTC")
+    lines.append("--------------------------------------------------")
     
     for lang, bytes_count in sorted_languages:
         percentage = (bytes_count / total_bytes) * 100
-        if percentage < 0.1: continue # Skip very small percentages
+        if percentage < 0.5: continue # Skip very small percentages
         
-        # Simple bar graph using characters or HTML
-        bar_length = int(percentage / 5) # 1 block per 5%
-        bar = "█" * bar_length + "░" * (20 - bar_length)
+        # Nerdy terminal progress bar: [#####.....]
+        bar_length = int(percentage / 4) # 1 block per 4% (25 blocks total)
+        bar = "█" * bar_length + "░" * (25 - bar_length)
         
-        lines.append("  <tr>")
-        lines.append(f"    <td><b>{lang}</b></td>")
-        lines.append(f"    <td>{percentage:.1f}%</td>")
-        lines.append(f"    <td><code>{bar}</code></td>")
-        lines.append("  </tr>")
+        lines.append(f"{lang.ljust(12)} [{bar}] {percentage:>5.1f}%")
         
-    lines.append("</table>")
+    lines.append("--------------------------------------------------")
+    lines.append("```")
+    lines.append("</div>")
     return "\n".join(lines)
 
 def update_readme(stats_markdown):
