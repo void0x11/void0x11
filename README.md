@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/cont_wave.gif" width="600px" alt="Signal Waveform"/>
+  <img src="https://raw.githubusercontent.com/amnxlab/amnxlab/main/cont_wave.gif" width="600px" alt="Signal Waveform"/>
 </div>
 
 ---
@@ -32,7 +32,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img align="right" src="https://github.com/amnxlab/amnxlab/blob/main/nerd-emoji-nerd.gif" width="280px"/>
+<img align="right" src="https://raw.githubusercontent.com/amnxlab/amnxlab/main/nerd-emoji-nerd.gif" width="280px"/>
 
 ### 🔬 Research Interests (Secondary Focus)
 - **Radar & SDR**: FMCW signal processing, target detection, GNU Radio
@@ -152,6 +152,3 @@
   <img src="https://komarev.com/ghpvc/?username=amnxlab&color=1FD454&style=flat-square&label=Profile+Views"/>
 </p>
 
-<p align="center">
-  <i>"Bridging signal processing, embedded systems, and defense applications."</i>
-</p>
