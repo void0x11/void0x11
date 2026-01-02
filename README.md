@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FD454&center=true&vCenter=true&random=false&width=750&height=50&lines=Electronics+Engineer+%7C+PCB+Design+%26+Embedded+Systems;SDR+%26+Signal+Processing+%7C+RF+%26+RADAR;Researcher+%7C+RF+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1FD454&center=true&vCenter=true&random=false&width=500&height=50&lines=Hardware+Design+Engineer;Researcher" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
