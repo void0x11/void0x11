@@ -12,13 +12,41 @@
   <a href="https://www.linkedin.com/in/amnxlab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@AMNxLab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://x.com/AMNxlab"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.amnxlab.site/"><img src="https://img.shields.io/badge/Website-1FD454?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
+  <a href="https://www.amnxlab.site/"><img src="https://img.shields.io/badge/Website-1FD454?style=for-the-badge&logo=safari&logoColor=grey" alt="Portfolio"/></a>
   <a href="mailto:ahmedamin@suumail.net"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/amnxlab/amnxlab/main/cont_wave.gif" width="600px" alt="Signal Waveform"/>
 </div>
+
+---
+
+## 📡 I2C Device Tree — Profile Navigation
+
+```
+I2C Bus 0x00 (Profile Subsystems)
+│
+├─[0x3C] ⚡ Core Competencies
+│   ├─ PCB Design & Layout
+│   ├─ Embedded Firmware
+│   └─ RF & Analog Circuits
+│
+├─[0x68] 🔬 Research Projects
+│   ├─ FMCW Radar Processing
+│   ├─ Swarm Robotics (TurboPi)
+│   └─ Cyber-Physical Security
+│
+├─[0x76] 🛠️ Lab Equipment
+│   ├─ RF: GNU Radio, HackRF, USRP
+│   ├─ MCU: STM32, ESP32, ARM
+│   └─ EDA: KiCad, Altium, MATLAB
+│
+└─[0xA0] 🔩 Hardware Builds
+    ├─ VoidPWN (Raspberry Pi)
+    ├─ TurboPi Swarm
+    └─ FMCW Radar System
+```
 
 ---
 
@@ -44,7 +72,15 @@
 <br/>
 <br/>
 
----
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+     ╔═══╗   ╔═══╗   ╔═══╗   ╔═══╗   ╔═══╗   ╔═══╗   ╔═══╗   ╔═══╗   ╔═══╗  
+═════╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚════
+    [PCB Copper Trace — Layer 1: Signal Routing]
+═══════════════════════════════════════════════════════════════════════════════
+```
+
 
 ## 🛠️ Lab Bench & Tools
 
@@ -105,6 +141,27 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Verilog-4B0082?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Spectrum Analyzer — GitHub Activity
+
+```
+ dBm
+  0 ┤                                    ╭──╮                    ╭─╮          
+-10 ┤              ╭─╮                  │  │        ╭─╮        │ │          
+-20 ┤       ╭──╮  │ │   ╭──╮   ╭─╮    │  │   ╭─╮ │ │  ╭──╮ │ │   ╭─╮    
+-30 ┤  ╭──╮ │  │ │ │  │  │  │ │   │  │  ╭──╮│ │ │ │ │  │ │ │ │ │  GitHub
+-40 ┤ │  │││  ││ │ ││  │  │││ │  │  ││  │  ││ ││ ││ ││  ││ ││ ││ │  Activity
+-50 ┼─┴──┴┴┴──┴┴─┴─┴┴──┴──┴┴┴─┴──┴──┴┴──┴──┴┴─┴┴─┴┴─┴┴──┴┴─┴┴─┴┴─┴──Waterfall
+    Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec  [2024-2026]
+    
+    Center Frequency: github.com/amnxlab | RBW: 1 commit/day | Span: Full Year
+```
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amnxlab&theme=react-dark&hide_border=true&area=true&custom_title=Commit%20Signal%20Strength" width="90%"/>
 </p>
 
 ---
