@@ -22,34 +22,6 @@
 
 ---
 
-## 📡 I2C Device Tree — Profile Navigation
-
-```
-I2C Bus 0x00 (Profile Subsystems)
-│
-├─[0x3C] ⚡ Core Competencies
-│   ├─ PCB Design & Layout
-│   ├─ Embedded Firmware
-│   └─ RF & Analog Circuits
-│
-├─[0x68] 🔬 Research Projects
-│   ├─ FMCW Radar Processing
-│   ├─ Swarm Robotics (TurboPi)
-│   └─ Cyber-Physical Security
-│
-├─[0x76] 🛠️ Lab Equipment
-│   ├─ RF: GNU Radio, HackRF, USRP
-│   ├─ MCU: STM32, ESP32, ARM
-│   └─ EDA: KiCad, Altium, MATLAB
-│
-└─[0xA0] 🔩 Hardware Builds
-    ├─ VoidPWN (Raspberry Pi)
-    ├─ TurboPi Swarm
-    └─ FMCW Radar System
-```
-
----
-
 ## ⚡ What I Do
 
 ```
@@ -68,9 +40,6 @@ I2C Bus 0x00 (Profile Subsystems)
 - **Swarm Robotics**: Distributed intelligence, cooperative perception
 - **Hardware Security**: RF fingerprinting, side-channel analysis
 <br/>
-<br/>
-<br/>
-<br/>
 
 
 ```
@@ -79,6 +48,7 @@ I2C Bus 0x00 (Profile Subsystems)
 ═════╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚═══╝   ╚════
     [PCB Copper Trace — Layer 1: Signal Routing]
 ═══════════════════════════════════════════════════════════════════════════════
+<br/>
 ```
 
 
