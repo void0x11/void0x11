@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FD454&center=true&vCenter=true&random=false&width=700&height=50&lines=Hardware+Engineer+%7C+SDR+%26+Signal+Processing;RF+%26+RADAR+Systems+%7C+Embedded+Design;FMCW+Radar+%7C+Cyber-Physical+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FD454&center=true&vCenter=true&random=false&width=750&height=50&lines=Electronics+Engineer+%7C+PCB+Design+%26+Embedded+Systems;SDR+%26+Signal+Processing+%7C+RF+%26+RADAR;Researcher+%7C+Cyber-Physical+Security" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
@@ -22,19 +22,19 @@
 
 ---
 
-## 🔬 Current Research Focus
+## ⚡ What I Do
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  📡 FMCW Radar Signal Processing & Target Classification                   │
-│  🤖 TurboPi Swarm Robotics - Cooperative Perception & Embedded AI          │
-│  🔐 Cyber-Physical Security & Electronic Warfare Applications              │
+│  � PCB DESIGN: Schematic capture, multi-layer layouts, signal integrity   │
+│  📟 EMBEDDED SYSTEMS: Firmware development, real-time systems, drivers     │
+│  � RF & ELECTRONICS: Analog/digital circuits, power electronics           │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <img align="right" src="https://github.com/amnxlab/amnxlab/blob/main/nerd-emoji-nerd.gif" width="280px"/>
 
-### 🎯 Research Interests
+### 🔬 Research Interests (Secondary Focus)
 - **Radar & SDR**: FMCW signal processing, target detection, GNU Radio
 - **Embedded AI**: Edge inference, sensor fusion, real-time classification
 - **Swarm Robotics**: Distributed intelligence, cooperative perception
