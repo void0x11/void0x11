@@ -105,20 +105,46 @@
 
 ---
 
-## 📊 GitHub Stats
+## � Featured Hardware Projects
 
-<p align="center">
-  <a href="https://github.com/amnxlab">
-    <img src="https://github-readme-stats.vercel.app/api?username=amnxlab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-  </a>
-  <a href="https://github.com/amnxlab">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnxlab&theme=tokyonight&hide_border=true" width="48%"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnxlab&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/amnxlab/VoidPWN">
+        <img src="https://img.shields.io/badge/🔴_VoidPWN-Raspberry_Pi_Security_Platform-dc143c?style=for-the-badge"/>
+      </a>
+      <br/><br/>
+      <b>Portable penetration testing & RF assessment platform</b><br/>
+      <sub>Raspberry Pi 4B • Alfa WiFi • RTL-SDR • Python</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/amnxlab/TurboPi-Swarm">
+        <img src="https://img.shields.io/badge/🤖_TurboPi_Swarm-Cooperative_Robotics-4682B4?style=for-the-badge"/>
+      </a>
+      <br/><br/>
+      <b>Multi-robot swarm with embedded AI perception</b><br/>
+      <sub>ARM Cortex • Computer Vision • Distributed Control</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/amnxlab/FMCW-Radar">
+        <img src="https://img.shields.io/badge/📡_FMCW_Radar-Signal_Processing-9932CC?style=for-the-badge"/>
+      </a>
+      <br/><br/>
+      <b>FMCW radar signal processing & target classification</b><br/>
+      <sub>MATLAB • Python • DSP • Machine Learning</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.amnxlab.site/projects.html">
+        <img src="https://img.shields.io/badge/🔧_More_Projects-PCB_Designs_&_Builds-228B22?style=for-the-badge"/>
+      </a>
+      <br/><br/>
+      <b>Hardware builds, PCB designs, and robotics systems</b><br/>
+      <sub>KiCad • Altium • STM32 • ESP32</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -129,5 +155,3 @@
 <p align="center">
   <i>"Bridging signal processing, embedded systems, and defense applications."</i>
 </p>
-</CodeContent>
-<parameter name="EmptyFile">false
