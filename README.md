@@ -147,8 +147,3 @@
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amnxlab&color=1FD454&style=flat-square&label=Profile+Views"/>
-</p>
-
