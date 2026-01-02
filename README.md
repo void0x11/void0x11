@@ -1,29 +1,31 @@
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/aminsignal/">
-    <img src="https://github.com/void0x11/void0x11/blob/main/2.png" alt="Ahmed Amin" width="400px" height="60px" /></a>
+  <a href="https://www.linkedin.com/in/amnxlab/">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/2.png" alt="Ahmed Amin" width="400px" height="60px" /></a>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1FD454&center=true&vCenter=true&random=true&width=450&height=55&lines=Researcher;Electronics+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1FD454&center=true&vCenter=true&random=true&width=600&height=55&lines=Hardware+Engineer;SDR+%26+Signal+Processing;RF+%26+RADAR+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aminsignal/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/amnxlab/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://github.com/amnxlab/amnxlab/blob/main/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@aminsignal" alt="Youtube" title="Youtube"><img width="32px" src="https://github.com/void0x11/void0x11/blob/main/Youtube.png"/></a>
+  <a href="https://www.youtube.com/@AMNxLab" alt="Youtube" title="Youtube"><img width="32px" src="https://github.com/amnxlab/amnxlab/blob/main/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://voidlab.site/" alt="Personal Blog" title="Website">
-  <img width="32px" src="https://github.com/void0x11/void0x11/blob/main/blog.png"/></a>
+  <a href="https://www.amnxlab.site/" alt="Personal Website" title="Website">
+  <img width="32px" src="https://github.com/amnxlab/amnxlab/blob/main/blog.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/AMNxlab" alt="X (Twitter)" title="X"><img width="32px" src="https://github.com/amnxlab/amnxlab/blob/main/twitter-circle.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <div align="center">
-<picture> <img align="center" src="https://github.com/void0x11/void0x11/blob/main/Logo.png" width = 350px></picture>
+<picture> <img align="center" src="https://github.com/amnxlab/amnxlab/blob/main/Logo.png" width = 350px></picture>
 </div>
 
-## <picture><img src = "https://raw.githubusercontent.com/void0x11/void0x11/main/about_me.gif" width = 50px></picture> **About me**
-  <picture> <img align="right" src="https://github.com/void0x11/void0x11/blob/main/nerd-emoji-nerd.gif" width = 375px></picture>
+## <picture><img src = "https://raw.githubusercontent.com/amnxlab/amnxlab/main/about_me.gif" width = 50px></picture> **About me**
+  <picture> <img align="right" src="https://github.com/amnxlab/amnxlab/blob/main/nerd-emoji-nerd.gif" width = 375px></picture>
 
 - Developing **AI-driven signal fusion and target classification** frameworks for radar-based sensing and autonomous perception.  
 - Leading the **TurboPi Swarm Robotics Initiative**, focusing on cooperative perception and decentralized decision-making using lightweight embedded AI models.  
@@ -57,11 +59,11 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="100" style="margin-right: 100px;" />
   <br>
   <br>
-  <img src="https://github.com/void0x11/void0x11/blob/main/MATLAB-Logo.png" alt="MATLAB icon" width="100" style="margin-right: 100px;" />
-  <img src="https://github.com/void0x11/void0x11/blob/main/C.png" alt="C icon" width="100" style="margin-right: 100px;" />
-  <img src="https://github.com/void0x11/void0x11/blob/main/R.png" alt="R icon" width="100" style="margin-right: 100px;" />
-  <img src="https://github.com/void0x11/void0x11/blob/main/Assembly.png" alt="Assembly icon" width="100" style="margin-right: 100px;" />
-  <img src="https://github.com/void0x11/void0x11/blob/main/rust.png" alt="Rust icon" width="100" style="margin-right: 100px;" />
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/MATLAB-Logo.png" alt="MATLAB icon" width="100" style="margin-right: 100px;" />
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/C.png" alt="C icon" width="100" style="margin-right: 100px;" />
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/R.png" alt="R icon" width="100" style="margin-right: 100px;" />
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/Assembly.png" alt="Assembly icon" width="100" style="margin-right: 100px;" />
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/rust.png" alt="Rust icon" width="100" style="margin-right: 100px;" />
 
 
 </div>
@@ -70,17 +72,17 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/void0x11">
+  <a href="https://github.com/amnxlab">
     <!-- Card 1: GitHub Stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=void0x11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width=500/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amnxlab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width=500/>
   </a>
   <br>
   <br>
 
   <p align="center">
-  <a href="https://github.com/void0x11">
+  <a href="https://github.com/amnxlab">
     <!-- Card 2: GitHub Streak Stats -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=void0x11&theme=tokyonight&hide_border=false" width=500/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnxlab&theme=tokyonight&hide_border=false" width=500/>
   </a>
   
 </p>
@@ -89,7 +91,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=void0x11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width=500 height=250 />
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=amnxlab&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width=500 height=250 />
 </p>
 
 <br>
