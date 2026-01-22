@@ -1,8 +1,6 @@
-<!-- Header Banner -->
+<!-- Animated RF/Signal Processing Banner -->
 <div align="center">
-  <a href="https://www.amnxlab.site/">
-    <img src="https://raw.githubusercontent.com/amnxlab/amnxlab/main/banner.png" alt="Ahmed Amin - Hardware Engineer" width="100%"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=200&section=header&text=Hi,%20I'm%20Ahmed%20📡&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Hardware%20Engineer%20|%20RF%20%26%20Signal%20Processing&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <br/>
@@ -74,6 +72,11 @@
 </div>
 
 ---
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=100&section=footer" width="100%"/>
+</div>
 
 <div align="center">
   <sub>📡 Broadcasting from the lab bench | <a href="https://www.amnxlab.site">amnxlab.site</a></sub>
