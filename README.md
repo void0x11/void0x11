@@ -176,3 +176,73 @@
 </table>
 
 ---
+
+## 📈 Git Signal Analysis — Statistics & Metrics
+
+<div align="center">
+  
+### 📊 Contribution Spectrum
+  
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=amnxlab&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=1FD454&icon_color=1FD454&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnxlab&theme=react&hide_border=true&background=0D1117&stroke=1FD454&ring=1FD454&fire=1FD454&currStreakLabel=1FD454" alt="GitHub Streak" width="100%"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnxlab&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=1FD454&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌊 RF Waveform Footer
+
+```
+     ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗    ███████╗ ██████╗ ██████╗ 
+     ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝    ██╔════╝██╔═══██╗██╔══██╗
+        ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗    █████╗  ██║   ██║██████╔╝
+        ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║    ██╔══╝  ██║   ██║██╔══██╗
+        ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║    ██║     ╚██████╔╝██║  ██║
+        ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝
+     ██╗   ██╗██╗███████╗██╗████████╗██╗███╗   ██╗ ██████╗                           
+     ██║   ██║██║██╔════╝██║╚══██╔══╝██║████╗  ██║██╔════╝                           
+     ██║   ██║██║███████╗██║   ██║   ██║██╔██╗ ██║██║  ███╗                          
+     ╚██╗ ██╔╝██║╚════██║██║   ██║   ██║██║╚██╗██║██║   ██║                          
+      ╚████╔╝ ██║███████║██║   ██║   ██║██║ ╚████║╚██████╔╝                          
+       ╚═══╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝                           
+```
+
+<div align="center">
+  
+### 📡 Signal Transmission Complete
+  
+```
+  ╭─────────────────────────────────────────────────────────────────────────╮
+  │  Carrier Freq: 73.5 MHz (Amateur Radio)  |  Modulation: FM/CW/SSB     │
+  │  Output Power: ∞ (Passion)                |  VSWR: 1:1 (Perfect Match)  │
+  │  Bandwidth: Full Spectrum Engineering     |  Status: TX ● ON-AIR        │
+  ╰─────────────────────────────────────────────────────────────────────────╯
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=73%20-%20Best%20Regards%20🛰️&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+</div>
+
+<div align="center">
+  <sub>🔧 Built with passion for hardware, signal processing, and RF engineering</sub><br>
+  <sub>📡 Broadcasting from the lab bench | <a href="https://www.amnxlab.site">amnxlab.site</a></sub>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amnxlab&label=Profile%20Visitors&color=1FD454&style=flat-square" alt="Profile views"/>
+</div>
+
+---
