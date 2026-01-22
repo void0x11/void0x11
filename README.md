@@ -77,30 +77,9 @@
 
 ## 📻 Spectrum Analyzer — GitHub Activity
 
-```
- dBm
-  0 ┤                                    ╭──╮                    ╭─╮          
--10 ┤              ╭─╮                  │  │        ╭─╮        │ │          
--20 ┤       ╭──╮  │ │   ╭──╮   ╭─╮    │  │   ╭─╮ │ │  ╭──╮ │ │   ╭─╮    
--30 ┤  ╭──╮ │  │ │ │  │  │  │ │   │  │  ╭──╮│ │ │ │ │  │ │ │ │ │  GitHub
--40 ┤ │  │││  ││ │ ││  │  │││ │  │  ││  │  ││ ││ ││ ││  ││ ││ ││ │  Activity
--50 ┼─┴──┴┴┴──┴┴─┴─┴┴──┴──┴┴┴─┴──┴──┴┴──┴──┴┴─┴┴─┴┴─┴┴──┴┴─┴┴─┴┴─┴──Waterfall
-    Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec  [2025-2026]
-    
-    Center Frequency: github.com/amnxlab | RBW: 1 commit/day | Span: Full Year
-```
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amnxlab&theme=tokyo-night&hide_border=true&area=true&custom_title=📡%20Commit%20Signal%20Strength%20(2026)" width="95%"/>
 </p>
-
----
-
-## 📈 Contribution Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amnxlab&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&dates=888888" alt="GitHub Streak" width="60%"/>
-</div>
 
 ---
 
