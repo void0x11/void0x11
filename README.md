@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  Hardware Engineer | RF & Signal Processing
+  Hardware Engineer | Researcher
 </h3>
 
 <br/>
