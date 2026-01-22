@@ -1,7 +1,15 @@
-<!-- Animated RF/Signal Processing Banner -->
+<!-- RF/Signal Processing Themed Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=200&section=header&text=Hi,%20I'm%20Ahmed%20📡&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Hardware%20Engineer%20|%20RF%20%26%20Signal%20Processing&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=400&fit=crop&q=80" alt="RF Signal Processing Banner" width="100%"/>
 </div>
+
+<h1 align="center">
+  Hi, I'm Ahmed 📡
+</h1>
+
+<h3 align="center">
+  Hardware Engineer | RF & Signal Processing
+</h3>
 
 <br/>
 
@@ -72,11 +80,6 @@
 </div>
 
 ---
-
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=100&section=footer" width="100%"/>
-</div>
 
 <div align="center">
   <sub>📡 Broadcasting from the lab bench | <a href="https://www.amnxlab.site">amnxlab.site</a></sub>
