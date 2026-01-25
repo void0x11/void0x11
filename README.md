@@ -75,6 +75,30 @@
 
 ---
 
+## ⏳ Coding Activity (WakaTime)
+
+<div align="center">
+  <img src="https://github-readme-stat-livid.vercel.app/api/wakatime?username=amnxlab&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&custom_title=Weekly%20Coding%20Stats" alt="WakaTime Stats"/>
+</div>
+
+---
+
+## 🎵 Now Playing
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=amnxlab&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=amnxlab&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 📻 Spectrum Analyzer — GitHub Activity
 
 <p align="center">
