@@ -75,6 +75,7 @@
 
 ---
 
+<!--
 ## ⏳ Coding Activity (WakaTime)
 
 <div align="center">
@@ -92,6 +93,7 @@
 </div>
 
 ---
+-->
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
