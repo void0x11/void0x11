@@ -93,7 +93,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="64" height="64" alt="Bash" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Bash-4ECDC4?style=for-the-badge" alt="Bash Shell" />
+  <img src="https://img.shields.io/badge/Bash-424242?style=for-the-badge" alt="Bash Shell" />
 </td>
 <td align="center" width="180">
   <a href="#">
