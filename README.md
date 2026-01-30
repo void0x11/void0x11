@@ -43,7 +43,7 @@
 
 ### Programming Languages
 
-<table>
+<table border="0" style="border-collapse: collapse; border: none;">
 <tr>
 <td align="center" width="180">
   <a href="#">
