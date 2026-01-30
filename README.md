@@ -173,31 +173,11 @@
 
 ### Embedded Platforms
 
-<table>
-<tr>
-<td align="center" width="220">
-  <a href="#">
-    <img src="https://img.shields.io/badge/STM32-004F9F?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iOCIgZmlsbD0iIzAwNEY5RiIvPgo8cmVjdCB4PSIxMiIgeT0iMTIiIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgcng9IjQiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjIiLz4KPHJlY3QgeD0iMTYiIHk9IjE2IiB3aWR0aD0iMzIiIGhlaWdodD0iOCIgZmlsbD0id2hpdGUiLz4KPHJlY3QgeD0iMTYiIHk9IjI4IiB3aWR0aD0iMjQiIGhlaWdodD0iOCIgZmlsbD0id2hpdGUiLz4KPHJlY3QgeD0iMTYiIHk9IjQwIiB3aWR0aD0iMjAiIGhlaWdodD0iOCIgZmlsbD0id2hpdGUiLz4KPHN2ZyB4PSIyNCIgeT0iNDgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+Cjx0ZXh0IHg9IjgiIHk9IjEyIiBmb250LXNpemU9IjEwIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlNUPC90ZXh0Pgo8L3N2Zz4KPC9zdmc+" width="64" height="64" alt="STM32" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/STM32-004F9F?style=for-the-badge" alt="STM32" />
-</td>
-<td align="center" width="220">
-  <a href="#">
-    <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iOCIgZmlsbD0iI0U3MzUyQyIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIxOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0yNCAyNGMwIDQuNDE4IDMuNTgyIDggOCA4czgtMy41ODIgOC04IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz4KPHBhdGggZD0iTTMyIDI0YzAgNC40MTggMy41ODIgOCA4IDhzOC0zLjU4MiA4LTgiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSI0IiBmaWxsPSJ3aGl0ZSIvPgo8dGV4dCB4PSIzMiIgeT0iNTAiIGZvbnQtc2l6ZT0iMTAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RVNQPC90ZXh0Pgo8L3N2Zz4=" width="64" height="64" alt="ESP32" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" alt="ESP32" />
-</td>
-<td align="center" width="220">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iOCIgZmlsbD0iI0EyMjg0NiIvPgo8cGF0aCBkPSJNMzIgMTZjMCAwLTggNC0xMiAxMnM0IDEyIDEyIDEyIDEyLTQgMTItMTItMTItMTItMTItMTJ6IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPGNpcmNsZSBjeD0iMjgiIGN5PSIyNCIgcj0iMiIgZmlsbD0id2hpdGUiLz4KPGNpcmNsZSBjeD0iMzYiIGN5PSIyNCIgcj0iMiIgZmlsbD0id2hpdGUiLz4KPGNpcmNsZSBjeD0iMjQiIGN5PSIzMCIgcj0iMS41IiBmaWxsPSJ3aGl0ZSIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIxLjUiIGZpbGw9IndoaXRlIi8+CjxjaXJjbGUgY3g9IjQwIiBjeT0iMzAiIHI9IjEuNSIgZmlsbD0id2hpdGUiLz4KPGNpcmNsZSBjeD0iMjgiIGN5PSIzNiIgcj0iMS41IiBmaWxsPSJ3aGl0ZSIvPgo8Y2lyY2xlIGN4PSIzNiIgY3k9IjM2IiByPSIxLjUiIGZpbGw9IndoaXRlIi8+Cjx0ZXh0IHg9IjMyIiB5PSI1MCIgZm9udC1zaXplPSIxMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5SUDwvdGV4dD4KPC9zdmc+" width="64" height="64" alt="Raspberry Pi" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge" alt="Raspberry Pi" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-004F9F?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+</p>
 
 </div>
 
