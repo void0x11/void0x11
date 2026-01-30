@@ -54,7 +54,7 @@
     <img src="https://github.com/amnxlab/amnxlab/blob/main/icons8-c-programming.svg?raw=true" width="64" height="64" alt="C" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/C-2C2C2C?style=for-the-badge" alt="C" />
+  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge" alt="C" />
 </td>
 <td align="center" width="180">
   <a href="#">
@@ -68,7 +68,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/MATLAB-6B46C1?style=for-the-badge&labelColor=6B46C1&color=6B46C1" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
 </td>
 <td align="center" width="180">
   <a href="#">
@@ -91,7 +91,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" alt="Java" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Java-DC143C?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED1C24?style=for-the-badge" alt="Java" />
 </td>
 <td align="center" width="180">
   <a href="#">
