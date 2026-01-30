@@ -73,7 +73,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/MATLAB-8B5CF6?style=for-the-badge&labelColor=8B5CF6&color=8B5CF6" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/MATLAB-6B46C1?style=for-the-badge&labelColor=6B46C1&color=6B46C1" alt="MATLAB" />
 </td>
 <td align="center" width="180">
   <a href="#">
