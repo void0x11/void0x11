@@ -133,26 +133,40 @@
 
 <table>
 <tr>
-<td align="center" width="220">
+<td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.simpleicons.org/verilog/8B00FF" width="64" height="64" alt="Verilog" />
+    <img src="https://img.shields.io/badge/Verilog-8B00FF?style=flat-square&logo=verilog&logoColor=white" width="64" height="64" alt="Verilog" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/Verilog-8B00FF?style=for-the-badge" alt="Verilog" />
 </td>
-<td align="center" width="220">
+<td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.simpleicons.org/gnuradio/00787A" width="64" height="64" alt="GNU Radio" />
+    <img src="https://img.shields.io/badge/GNU_Radio-00787A?style=flat-square&logo=gnuradio&logoColor=white" width="64" height="64" alt="GNU Radio" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/GNU_Radio-00787A?style=for-the-badge" alt="GNU Radio" />
 </td>
-<td align="center" width="220">
+<td align="center" width="180">
   <a href="#">
     <img src="https://cdn.simpleicons.org/kicad/314CB0" width="64" height="64" alt="KiCad" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge" alt="KiCad" />
+</td>
+<td align="center" width="180">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" width="64" height="64" alt="Altium Designer" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge" alt="Altium Designer" />
+</td>
+<td align="center" width="180">
+  <a href="#">
+    <img src="https://img.shields.io/badge/ADS-FF6B35?style=flat-square&logo=keysight&logoColor=white" width="64" height="64" alt="ADS" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/ADS-FF6B35?style=for-the-badge" alt="ADS" />
 </td>
 </tr>
 </table>
