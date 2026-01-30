@@ -24,7 +24,15 @@
 
 <!-- Bio Section -->
 <p align="center">
-  I'm a Hardware Design Engineer specializing in PCB Design and RF Engineering. My research interests include Radar, Software Defined Radio, & Signal Processing.
+  I'm a Hardware Design Engineer specializing in PCB Design and RF Engineering.
+
+Research Interests
+• Radar Systems
+• Communications Networks
+• RF & Software Defined Radio
+• Signal Processing
+• Navigation & Localization
+
 </p>
 
 ---
