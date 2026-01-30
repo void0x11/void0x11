@@ -22,9 +22,7 @@
 
 <!-- Bio Section -->
 <p align="center">
-  I'm a <b>Hardware Design Engineer</b> specializing in <b>PCB Design</b>, <b>Embedded Systems</b>, and <b>RF Engineering</b> 📡. 
-  My research interests include <b>FMCW Radar</b>, <b>Software Defined Radio</b>, and <b>Signal Processing</b> 📻. 
-  I love building hardware systems that bridge the gap between analog and digital worlds ⚡.
+  I'm a Hardware Design Engineer specializing in PCB Design and RF Engineering. My research interests include Radar, Software Defined Radio, & Signal Processing.
 </p>
 
 <!-- Social Links -->
