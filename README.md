@@ -47,42 +47,32 @@
 
 <table>
 <tr>
-<td align="center" width="150">
+<td align="center" width="220">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80" alt="C" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   </a>
-  <br />
-  <sub><b>C</b></sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="220">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   </a>
-  <br />
-  <sub><b>C++</b></sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="220">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-  <br />
-  <sub><b>Python</b></sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="220">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="80" height="80" alt="MATLAB" />
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
   </a>
-  <br />
-  <sub><b>MATLAB</b></sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="220">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="80" height="80" alt="Rust" />
+    <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   </a>
-  <br />
-  <sub><b>Rust</b></sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="220">
   <a href="#">
     <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
   </a>
@@ -133,53 +123,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<!-- Technology Stack Badges -->
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
-  </a>
-  <br />
-  <a href="#">
-    <img src="https://img.shields.io/badge/Verilog-4B0082?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GNU_Radio-1a1a2e?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  </a>
-</p>
 
 </div>
 
