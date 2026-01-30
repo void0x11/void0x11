@@ -128,10 +128,10 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://img.shields.io/badge/VHDL-9457B6?style=flat-square&logo=vhdl&logoColor=white" width="64" height="64" alt="VHDL" />
+    <img src="https://cdn.simpleicons.org/vhdl/9457B6" width="64" height="64" alt="VHDL" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/VHDL-9457B6?style=for-the-badge&logo=vhdl&logoColor=white" alt="VHDL" />
+  <img src="https://img.shields.io/badge/VHDL-9457B6?style=for-the-badge" alt="VHDL" />
 </td>
 </tr>
 </table>
