@@ -54,7 +54,7 @@
     <img src="https://github.com/amnxlab/amnxlab/blob/main/C-Language-Logo--Streamline-Logos.svg?raw=true" width="64" height="64" alt="C" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge" alt="C" />
+  <img src="https://img.shields.io/badge/C-2C2C2C?style=for-the-badge" alt="C" />
 </td>
 <td align="center" width="180">
   <a href="#">
