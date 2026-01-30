@@ -93,6 +93,13 @@
 <tr>
 <td align="center" width="180">
   <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" alt="Java" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Java-DC143C?style=for-the-badge" alt="Java" />
+</td>
+<td align="center" width="180">
+  <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="64" height="64" alt="Bash" />
   </a>
   <br />
@@ -100,7 +107,7 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="64" height="64" alt="SQL" />
+    <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iOCIgZmlsbD0iIzAwNzU4RiIvPgo8cGF0aCBkPSJNMTYgMjBIMjBWMjRIMTZWMjBaTTI0IDIwSDI4VjI0SDI0VjIwWk0zMiAyMEgzNlYyNEgzMlYyMFpNNDAgMjBINDhWMjRINDBWMjBaTTE2IDI4SDIwVjMySDE2VjI4Wk0yNCAyOEgyOFYzMkgyNFYyOFpNMzIgMjhIMzZWMzJIMzJWMjhaTTQwIDI4SDQ4VjMySDQwVjI4Wk0xNiAzNkgyMFY0MEgxNlYzNlpNMjQgMzZIMjhWNDBIMjRWMzZaTTMyIDM2SDM2VjQwSDMyVjM2Wk00MCAzNkg0OFY0MEg0MFYzNloiIGZpbGw9IndoaXRlIi8+Cjx0ZXh0IHg9IjMyIiB5PSI1MCIgZm9udC1zaXplPSIxMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5TUUw8L3RleHQ+Cjwvc3ZnPg==" width="64" height="64" alt="SQL" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" alt="SQL" />
@@ -125,13 +132,6 @@
   </a>
   <br />
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge" alt="JavaScript" />
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" alt="Java" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
 </td>
 </tr>
 </table>
