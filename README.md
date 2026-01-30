@@ -7,6 +7,14 @@
   Hi, I'm Ahmed 📡
 </h1>
 
+<!-- Social Links -->
+<p align="center">
+  <a href="https://x.com/AMNxlab"><img src="https://img.shields.io/badge/--000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/amnxlab/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@AMNxLab"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.amnxlab.site/"><img src="https://img.shields.io/badge/-Portfolio-0066FF?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+</p>
+
 <h3 align="center">
   Hardware Engineer | Researcher
 </h3>
@@ -16,14 +24,6 @@
 <!-- Bio Section -->
 <p align="center">
   I'm a Hardware Design Engineer specializing in PCB Design and RF Engineering. My research interests include Radar, Software Defined Radio, & Signal Processing.
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://x.com/AMNxlab"><img src="https://img.shields.io/badge/--000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.linkedin.com/in/amnxlab/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@AMNxLab"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.amnxlab.site/"><img src="https://img.shields.io/badge/-Portfolio-0066FF?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
