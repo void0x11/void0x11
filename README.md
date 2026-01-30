@@ -86,12 +86,22 @@
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Shell" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML & CSS" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  </a>
+</td>
+<td align="center" width="220">
+  <a href="#">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  </a>
+</td>
+<td align="center" width="220">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Shell" />
   </a>
 </td>
 </tr>
