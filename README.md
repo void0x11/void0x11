@@ -43,7 +43,7 @@
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <table>
 <tr>
@@ -77,14 +77,14 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="64" height="64" alt="Rust" />
+    <img src="https://cdn.simpleicons.org/rust/CE412B" width="64" height="64" alt="Rust" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=FFFFFF" alt="Rust" />
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="64" height="64" alt="Assembly" />
+    <img src="https://cdn.simpleicons.org/assemblyscript/8B5CF6" width="64" height="64" alt="Assembly" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/Assembly-8B5CF6?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
