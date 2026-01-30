@@ -135,14 +135,14 @@
 <tr>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://img.shields.io/badge/Verilog-8B00FF?style=flat-square&logo=verilog&logoColor=white" width="64" height="64" alt="Verilog" />
+    <img src="https://img.shields.io/badge/Verilog-8B00FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iOCIgZmlsbD0iIzhCMDBGRiIvPgo8dGV4dCB4PSIzMiIgeT0iNDAiIGZvbnQtc2l6ZT0iMjQiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+VjwvdGV4dD4KPC9zdmc+" width="64" height="64" alt="Verilog" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/Verilog-8B00FF?style=for-the-badge" alt="Verilog" />
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://img.shields.io/badge/GNU_Radio-00787A?style=flat-square&logo=gnuradio&logoColor=white" width="64" height="64" alt="GNU Radio" />
+    <img src="https://img.shields.io/badge/GNU_Radio-00787A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iOCIgZmlsbD0iIzAwNzg3QSIvPgo8dGV4dCB4PSIzMiIgeT0iNDAiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+R1I8L3RleHQ+Cjwvc3ZnPg==" width="64" height="64" alt="GNU Radio" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/GNU_Radio-00787A?style=for-the-badge" alt="GNU Radio" />
@@ -156,7 +156,7 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" width="64" height="64" alt="Altium Designer" />
+    <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iOCIgZmlsbD0iI0E1OTFBRiIvPgo8dGV4dCB4PSIzMiIgeT0iNDAiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QUQ8L3RleHQ+Cjwvc3ZnPg==" width="64" height="64" alt="Altium Designer" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge" alt="Altium Designer" />
