@@ -44,17 +44,17 @@
 <tr>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" alt="C" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge" alt="C" />
-</td>
-<td align="center" width="180">
-  <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" height="64" alt="C++" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge" alt="C++" />
+</td>
+<td align="center" width="180">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" alt="C" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge" alt="C" />
 </td>
 <td align="center" width="180">
   <a href="#">
