@@ -26,12 +26,14 @@
 <p align="center">
   I'm a Hardware Design Engineer specializing in PCB Design and RF Engineering.
 
-Research Interests
-• Radar Systems
-• Communications Networks
-• RF & Software Defined Radio
-• Signal Processing
-• Navigation & Localization
+  <strong>Research Interests</strong>
+  <ul style="list-style-position: inside; display: inline-block; text-align: left;">
+    <li>Radar Systems</li>
+    <li>Communications Networks</li>
+    <li>RF & Software Defined Radio</li>
+    <li>Signal Processing</li>
+    <li>Navigation & Localization</li>
+  </ul>
 
 </p>
 
