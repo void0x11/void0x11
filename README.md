@@ -52,42 +52,42 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" alt="C" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge" alt="C" />
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" height="64" alt="C++" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FF6B9D" alt="C++" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge" alt="C++" />
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" alt="Python" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python" />
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.simpleicons.org/rust/CE412B" width="64" height="64" alt="Rust" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=FFFFFF" alt="Rust" />
+  <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge" alt="Rust" />
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.simpleicons.org/assemblyscript/8B5CF6" width="64" height="64" alt="Assembly" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Assembly-8B5CF6?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Assembly-8B5CF6?style=for-the-badge" alt="Assembly" />
 </td>
 </tr>
 <tr>
@@ -96,35 +96,35 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="64" height="64" alt="Bash" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Bash-4ECDC4?style=for-the-badge&logo=gnu-bash&logoColor=000000" alt="Bash Shell" />
+  <img src="https://img.shields.io/badge/Bash-4ECDC4?style=for-the-badge" alt="Bash Shell" />
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="64" height="64" alt="SQL" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" alt="SQL" />
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="64" height="64" alt="HTML5" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge" alt="HTML" />
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="64" height="64" alt="CSS3" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge" alt="CSS" />
 </td>
 <td align="center" width="180">
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge" alt="JavaScript" />
 </td>
 </tr>
 </table>
