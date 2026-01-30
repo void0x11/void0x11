@@ -1,6 +1,6 @@
 <!-- RF/Signal Processing Themed Header Banner -->
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=400&fit=crop&q=80" alt="RF Signal Processing Banner" width="100%"/>
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/bg.png?raw=true" alt="RF Signal Processing Banner" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -221,10 +221,6 @@
 
 ---
 -->
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
