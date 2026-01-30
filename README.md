@@ -139,7 +139,9 @@
 ### Hardware & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verilog-8B00FF?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
+  <img src="https://img.shields.io/badge/NI_MultiSim-FF6B00?style=for-the-badge&logo=nationalinstruments&logoColor=white" alt="NI MultiSim" />
+  <img src="https://img.shields.io/badge/Gqrx-1E88E5?style=for-the-badge&logo=gnuradio&logoColor=white" alt="Gqrx" />
   <img src="https://img.shields.io/badge/GNU_Radio-00787A?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
   <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
