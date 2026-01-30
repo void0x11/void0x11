@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amnxlab&label=Profile%20Views&color=0066FF&style=flat" alt="Profile Views"/>
   <a href="https://github.com/amnxlab?tab=repositories"><img src="https://img.shields.io/badge/Repos-15+-0066FF?style=flat" alt="Repos"/></a>
-  <a href="https://github.com/amnxlab?tab=followers"><img src="https://img.shields.io/badge/Followers-50+-0066FF?style=flat" alt="Followers"/></a>
 </p>
 
 <!-- Bio Section -->
