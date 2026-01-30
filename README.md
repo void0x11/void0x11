@@ -49,59 +49,59 @@
 <tr>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FF6B9D" alt="C++" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+    <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=FFFFFF" alt="Rust" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+    <img src="https://img.shields.io/badge/Assembly-8B5CF6?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
   </a>
 </td>
 </tr>
 <tr>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Bash-4ECDC4?style=for-the-badge&logo=gnu-bash&logoColor=000000" alt="Bash Shell" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Shell" />
+    <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
   </a>
 </td>
 </tr>
@@ -113,12 +113,12 @@
 <tr>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/Verilog-4B0082?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
+    <img src="https://img.shields.io/badge/Verilog-8B00FF?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
   </a>
 </td>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/GNU_Radio-1a1a2e?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
+    <img src="https://img.shields.io/badge/GNU_Radio-00787A?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
   </a>
 </td>
 <td align="center" width="220">
@@ -135,7 +135,7 @@
 <tr>
 <td align="center" width="220">
   <a href="#">
-    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+    <img src="https://img.shields.io/badge/STM32-004F9F?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   </a>
 </td>
 <td align="center" width="220">
