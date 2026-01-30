@@ -51,7 +51,7 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.simpleicons.org/c/A8B9CC" width="64" height="64" alt="C" />
+    <img src="https://cdn.simpleicons.org/c/00599C" width="64" height="64" alt="C" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/C-283593?style=for-the-badge" alt="C" />
