@@ -41,20 +41,147 @@
 
 ## 📡 Technology Stack
 
+<div align="center">
+
+### 💻 Programming Languages
+
+<table>
+<tr>
+<td align="center" width="150">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80" alt="C" />
+  </a>
+  <br />
+  <sub><b>C</b></sub>
+</td>
+<td align="center" width="150">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++" />
+  </a>
+  <br />
+  <sub><b>C++</b></sub>
+</td>
+<td align="center" width="150">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python" />
+  </a>
+  <br />
+  <sub><b>Python</b></sub>
+</td>
+<td align="center" width="150">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="80" height="80" alt="MATLAB" />
+  </a>
+  <br />
+  <sub><b>MATLAB</b></sub>
+</td>
+<td align="center" width="150">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="80" height="80" alt="Rust" />
+  </a>
+  <br />
+  <sub><b>Rust</b></sub>
+</td>
+<td align="center" width="150">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+  </a>
+</td>
+</tr>
+</table>
+
+### 🔧 Hardware & Tools
+
+<table>
+<tr>
+<td align="center" width="220">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Verilog-4B0082?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
+  </a>
+</td>
+<td align="center" width="220">
+  <a href="#">
+    <img src="https://img.shields.io/badge/GNU_Radio-1a1a2e?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
+  </a>
+</td>
+<td align="center" width="220">
+  <a href="#">
+    <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  </a>
+</td>
+</tr>
+</table>
+
+### 🎛️ Embedded Platforms
+
+<table>
+<tr>
+<td align="center" width="220">
+  <a href="#">
+    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  </a>
+</td>
+<td align="center" width="220">
+  <a href="#">
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  </a>
+</td>
+<td align="center" width="220">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<!-- Technology Stack Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=flat"/>
-  <img src="https://img.shields.io/badge/Verilog-4B0082?style=flat"/>
-  <img src="https://img.shields.io/badge/GNU_Radio-1a1a2e?style=flat&logo=gnuradio"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+  </a>
+  <br />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Verilog-4B0082?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GNU_Radio-1a1a2e?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  </a>
 </p>
+
+</div>
 
 ---
 
