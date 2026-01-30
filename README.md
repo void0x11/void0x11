@@ -7,6 +7,10 @@
   Hi, I'm Ahmed 📡
 </h1>
 
+<h3 align="center">
+  Hardware Engineer | Researcher
+</h3>
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://x.com/AMNxlab"><img src="https://img.shields.io/badge/--000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
@@ -15,9 +19,6 @@
   <a href="https://www.amnxlab.site/"><img src="https://img.shields.io/badge/-Portfolio-0066FF?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<h3 align="center">
-  Hardware Engineer | Researcher
-</h3>
 
 <br/>
 
