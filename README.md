@@ -107,7 +107,7 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDhMMTYgMTZWMjRIMzJWNDBINDhWMjRINDhWMTZMMzIgOFoiIGZpbGw9IiMwMDc1OEYiLz4KPHBhdGggZD0iTTMyIDE2TDE2IDI0VjMySDMyVjQwSDQ4VjMySDQ4VjI0TDMyIDE2WiIgZmlsbD0iIzAwNzU4RiIvPgo8L3N2Zz4=" width="64" height="64" alt="SQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="64" height="64" alt="SQL" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" alt="SQL" />
