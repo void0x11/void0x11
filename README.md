@@ -77,7 +77,7 @@
     <img src="https://cdn.simpleicons.org/assemblyscript/8B5CF6" width="64" height="64" alt="Assembly" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Assembly-8B5CF6?style=for-the-badge" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Assembly-6B46C1?style=for-the-badge" alt="Assembly" />
 </td>
 </tr>
 <tr>
