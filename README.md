@@ -74,7 +74,7 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.simpleicons.org/assemblyscript/4B0082" width="64" height="64" alt="Assembly" />
+    <img src="https://img.shields.io/badge/AS-4B0082?style=flat-square&logo=assemblyscript&logoColor=white&labelColor=4B0082" width="64" height="64" alt="Assembly" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/Assembly-4B0082?style=for-the-badge" alt="Assembly" />
