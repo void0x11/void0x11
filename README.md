@@ -43,30 +43,26 @@
 
 <div align="center">
 
-<div style="display: inline-block; margin: 20px;">
+<div style="display: inline-block; vertical-align: top; margin: 0 30px;">
   <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="140" style="border: none; outline: none;"/>
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="130" style="border: none; outline: none; display: block;"/>
   </a>
-  <br/><br/>
-  <p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 20px; font-weight: 700; letter-spacing: 1px; color: #1a1a1a; margin-top: 10px; margin-bottom: 5px;">
+  <p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 18px; font-weight: 700; letter-spacing: 0.8px; color: #1a1a1a; margin: 8px 0 3px 0; line-height: 1.2;">
     OrCAD Certified Essentials 23.1
   </p>
-  <p style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 12px; color: #6c757d; font-weight: 400; margin-top: 0px; text-transform: uppercase; letter-spacing: 1.5px;">
+  <p style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 11px; color: #6c757d; font-weight: 400; margin: 0; text-transform: uppercase; letter-spacing: 1.2px;">
     CertNexus
   </p>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<div style="display: inline-block; margin: 20px;">
+<div style="display: inline-block; vertical-align: top; margin: 0 30px;">
   <a href="https://badges.parchment.com/public/assertions/gzgyFlNbTQujp4shsb9MPw?identity__email=ahmedmohamed6071@gmail.com" target="_blank">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="140" style="border: none; outline: none;"/>
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="130" style="border: none; outline: none; display: block;"/>
   </a>
-  <br/><br/>
-  <p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 20px; font-weight: 700; letter-spacing: 1px; color: #1a1a1a; margin-top: 10px; margin-bottom: 5px;">
+  <p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 18px; font-weight: 700; letter-spacing: 0.8px; color: #1a1a1a; margin: 8px 0 3px 0; line-height: 1.2;">
     Industry Challenge Lab
   </p>
-  <p style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 12px; color: #6c757d; font-weight: 400; margin-top: 0px; text-transform: uppercase; letter-spacing: 1.5px;">
+  <p style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 11px; color: #6c757d; font-weight: 400; margin: 0; text-transform: uppercase; letter-spacing: 1.2px;">
     Southern Utah University
   </p>
 </div>
