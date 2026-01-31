@@ -154,7 +154,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
-  <img src="https://img.shields.io/badge/NI_MultiSim-FF6B00?style=for-the-badge&logo=nationalinstruments&logoColor=white" alt="NI MultiSim" />
+  <img src="https://img.shields.io/badge/NI_MultiSim-FF6B00?style=for-the-badge&logo=ni&logoColor=white" alt="NI MultiSim" />
   <img src="https://img.shields.io/badge/GNU_Radio-00BCD4?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
   <img src="https://img.shields.io/badge/KiCad-4B0082?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
   <img src="https://img.shields.io/badge/Altium_Designer-D4AF37?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
