@@ -87,7 +87,7 @@
     <img src="https://cdn.simpleicons.org/r/276DC3" width="64" height="64" alt="R" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge" alt="R" />
 </td>
 <td align="center" width="180">
   <a href="#">
