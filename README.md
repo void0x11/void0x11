@@ -43,13 +43,34 @@
 
 <div align="center">
 
-<a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="120"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://badges.parchment.com/public/assertions/gzgyFlNbTQujp4shsb9MPw?identity__email=ahmedmohamed6071@gmail.com" target="_blank">
-  <img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="120"/>
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
+  <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="140" style="border: none; outline: none;"/>
+  </a>
+  <br/><br/>
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; font-weight: 600; letter-spacing: 0.5px; color: #2c3e50; margin-top: 10px;">
+    <strong>OrCAD Capture Certified Professional</strong>
+  </p>
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; color: #7f8c8d; font-style: italic; margin-top: -5px;">
+    CertNexus • Version 17.2
+  </p>
+</td>
+<td align="center" width="50%">
+  <a href="https://badges.parchment.com/public/assertions/gzgyFlNbTQujp4shsb9MPw?identity__email=ahmedmohamed6071@gmail.com" target="_blank">
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="140" style="border: none; outline: none;"/>
+  </a>
+  <br/><br/>
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; font-weight: 600; letter-spacing: 0.5px; color: #2c3e50; margin-top: 10px;">
+    <strong>Industry Challenge Lab</strong>
+  </p>
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; color: #7f8c8d; font-style: italic; margin-top: -5px;">
+    Southern Utah University
+  </p>
+</td>
+</tr>
+</table>
 
 </div>
 
