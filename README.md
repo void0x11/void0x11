@@ -41,20 +41,18 @@
 
 ## 🏆 Badges
 
-<div align="center">
-<div style="display: inline-block; width: 200px; margin: 0 40px; text-align: center; vertical-align: top;">
+<div align="center" style="white-space: nowrap;">
+<div style="display: inline-block; width: 180px; margin: 0 30px; text-align: center; vertical-align: middle;">
   <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="130"/>
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="130" style="display: block;"/>
   </a>
   <div style="margin-top: 12px;">
     <div style="font-weight: bold; font-size: 14px;">OrCAD Certified Essentials 23.1</div>
     <div style="font-size: 11px; color: #6c757d; font-weight: bold; margin-top: 4px;">CERTNEXUS</div>
   </div>
-</div>
-
-<div style="display: inline-block; width: 200px; margin: 0 40px; text-align: center; vertical-align: top;">
+</div><div style="display: inline-block; width: 180px; margin: 0 30px; text-align: center; vertical-align: middle;">
   <a href="https://badges.parchment.com/public/assertions/gzgyFlNbTQujp4shsb9MPw?identity__email=ahmedmohamed6071@gmail.com" target="_blank">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="130"/>
+    <img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="130" style="display: block;"/>
   </a>
   <div style="margin-top: 12px;">
     <div style="font-weight: bold; font-size: 14px;">Industry Challenge Lab</div>
