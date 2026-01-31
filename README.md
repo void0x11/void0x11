@@ -43,7 +43,7 @@
 
 <div align="center">
 
-### Programming & Software
+### Languages & Software Tools
 
 <table border="0" style="border-collapse: collapse; border: none;">
 <tr>
@@ -143,7 +143,7 @@
 </tr>
 </table>
 
-### Hardware & Tools
+### PCB Design, Simulation & RF / SDR Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
