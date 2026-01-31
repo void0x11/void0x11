@@ -84,10 +84,10 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.simpleicons.org/rust/CE412B" width="64" height="64" alt="Rust" />
+    <img src="https://cdn.simpleicons.org/r/276DC3" width="64" height="64" alt="R" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge" alt="Rust" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </td>
 <td align="center" width="180">
   <a href="#">
