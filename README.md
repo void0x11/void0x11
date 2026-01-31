@@ -43,7 +43,7 @@
 
 <div align="center">
 
-### Programming Languages
+### Programming & Software
 
 <table border="0" style="border-collapse: collapse; border: none;">
 <tr>
@@ -132,6 +132,13 @@
   </a>
   <br />
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge" alt="JavaScript" />
+</td>
+<td align="center" width="180">
+  <a href="#">
+    <img src="https://cdn.simpleicons.org/jirasoftware/0052CC" width="64" height="64" alt="Jira" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="Jira" />
 </td>
 </tr>
 </table>
