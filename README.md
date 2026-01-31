@@ -154,11 +154,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
-  <img src="https://img.shields.io/badge/NI_MultiSim-FF6B00?style=for-the-badge&logo=ni&logoColor=white" alt="NI MultiSim" />
+  <img src="https://img.shields.io/badge/NI_MultiSim-FF6B00?style=for-the-badge&logo=nationalinstruments&logoColor=white" alt="NI MultiSim" />
   <img src="https://img.shields.io/badge/GNU_Radio-00BCD4?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
   <img src="https://img.shields.io/badge/KiCad-4B0082?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
-  <img src="https://img.shields.io/badge/Altium_Designer-D4AF37?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
-  <img src="https://img.shields.io/badge/OrCAD-0066CC?style=for-the-badge&logo=cadence&logoColor=white" alt="OrCAD" />
+  <img src="https://img.shields.io/badge/Altium_Designer-D4AF37?style=for-the-badge&logo=altium&logoColor=white" alt="Altium Designer" />
+  <img src="https://img.shields.io/badge/OrCAD-0066CC?style=for-the-badge&logo=orcad&logoColor=white" alt="OrCAD" />
   <img src="https://img.shields.io/badge/ADS_(Advanced_Design_System)-E91E63?style=for-the-badge&logo=keysight&logoColor=white" alt="ADS (Advanced Design System)" />
   <img src="https://img.shields.io/badge/HFSS-0071C5?style=for-the-badge&logo=ansys&logoColor=white" alt="HFSS" />
   <img src="https://img.shields.io/badge/CST_Microwave_Studio-4CAF50?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CST Microwave Studio" />
