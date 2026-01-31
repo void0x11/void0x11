@@ -39,38 +39,37 @@
 
 ---
 
-## 🏆 Certifications & Badges
+## 🏆 Badges
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+<div style="display: inline-block; margin: 20px;">
   <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="140" style="border: none; outline: none;"/>
   </a>
   <br/><br/>
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; font-weight: 600; letter-spacing: 0.5px; color: #2c3e50; margin-top: 10px;">
-    <strong>OrCAD Capture Certified Professional</strong>
+  <p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 20px; font-weight: 700; letter-spacing: 1px; color: #1a1a1a; margin-top: 10px; margin-bottom: 5px;">
+    OrCAD Certified Essentials 23.1
   </p>
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; color: #7f8c8d; font-style: italic; margin-top: -5px;">
-    CertNexus • Version 17.2
+  <p style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 12px; color: #6c757d; font-weight: 400; margin-top: 0px; text-transform: uppercase; letter-spacing: 1.5px;">
+    CertNexus
   </p>
-</td>
-<td align="center" width="50%">
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<div style="display: inline-block; margin: 20px;">
   <a href="https://badges.parchment.com/public/assertions/gzgyFlNbTQujp4shsb9MPw?identity__email=ahmedmohamed6071@gmail.com" target="_blank">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="140" style="border: none; outline: none;"/>
   </a>
   <br/><br/>
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; font-weight: 600; letter-spacing: 0.5px; color: #2c3e50; margin-top: 10px;">
-    <strong>Industry Challenge Lab</strong>
+  <p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 20px; font-weight: 700; letter-spacing: 1px; color: #1a1a1a; margin-top: 10px; margin-bottom: 5px;">
+    Industry Challenge Lab
   </p>
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; color: #7f8c8d; font-style: italic; margin-top: -5px;">
+  <p style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 12px; color: #6c757d; font-weight: 400; margin-top: 0px; text-transform: uppercase; letter-spacing: 1.5px;">
     Southern Utah University
   </p>
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
