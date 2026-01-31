@@ -39,6 +39,22 @@
 
 ---
 
+## 🏆 Certifications & Badges
+
+<div align="center">
+
+<a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank">
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="120"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://badges.parchment.com/public/assertions/gzgyFlNbTQujp4shsb9MPw?identity__email=ahmedmohamed6071@gmail.com" target="_blank">
+  <img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="120"/>
+</a>
+
+</div>
+
+---
+
 ## 📡 Technology Stack
 
 <div align="center">
