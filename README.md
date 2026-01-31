@@ -80,7 +80,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="64" height="64" alt="Octave" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Octave-FF9800?style=for-the-badge&logo=octave&logoColor=white" alt="Octave" />
+  <img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge" alt="Octave" />
 </td>
 <td align="center" width="180">
   <a href="#">
