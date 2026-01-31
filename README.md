@@ -42,9 +42,10 @@
 ## 🏆 Badges
 
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td align="center" style="border: none; padding: 10px;">
+<table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: collapse; background: transparent;">
+<tbody style="border: 0;">
+<tr style="border: 0; background: transparent;">
+<td align="center" style="border: 0; padding: 10px; background: transparent;">
   <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="130"/>
   </a>
@@ -53,8 +54,8 @@
   <br/>
   <strong style="font-size: 11px; color: #6c757d; text-transform: uppercase;">CertNexus</strong>
 </td>
-<td width="40" style="border: none;"></td>
-<td align="center" style="border: none; padding: 10px;">
+<td width="40" style="border: 0; background: transparent;"></td>
+<td align="center" style="border: 0; padding: 10px; background: transparent;">
   <a href="https://badges.parchment.com/public/assertions/gzgyFlNbTQujp4shsb9MPw?identity__email=ahmedmohamed6071@gmail.com" target="_blank">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="130"/>
   </a>
@@ -64,6 +65,7 @@
   <strong style="font-size: 11px; color: #6c757d; text-transform: uppercase;">Southern Utah University</strong>
 </td>
 </tr>
+</tbody>
 </table>
 </div>
 
