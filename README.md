@@ -70,17 +70,17 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
-</td>
-<td align="center" width="180">
-  <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="64" height="64" alt="Octave" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge" alt="Octave" />
+</td>
+<td align="center" width="180">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
 </td>
 <td align="center" width="180">
   <a href="#">
