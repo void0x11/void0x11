@@ -77,7 +77,7 @@
 </td>
 <td align="center" width="180">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/octave/octave-original.svg" width="64" height="64" alt="Octave" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="64" height="64" alt="Octave" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/Octave-FF9800?style=for-the-badge&logo=octave&logoColor=white" alt="Octave" />
