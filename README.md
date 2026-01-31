@@ -154,15 +154,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
-  <img src="https://img.shields.io/badge/NI_MultiSim-FF6B00?style=for-the-badge&logo=nationalinstruments&logoColor=white" alt="NI MultiSim" />
-  <img src="https://img.shields.io/badge/GNU_Radio-00BCD4?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
+  <img src="https://img.shields.io/badge/NI_MultiSim-FF6B00?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjx0ZXh0IHg9IjEyIiB5PSIxOCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPk5JPC90ZXh0Pjwvc3ZnPg==&logoColor=white" alt="NI MultiSim" />
+  <img src="https://img.shields.io/badge/GNU_Radio-00BCD4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGQ9Ik04IDEyIEwxMiA4IEwxNiAxMiBMMTIgMTYgWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="GNU Radio" />
   <img src="https://img.shields.io/badge/KiCad-4B0082?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
-  <img src="https://img.shields.io/badge/Altium_Designer-D4AF37?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
-  <img src="https://img.shields.io/badge/OrCAD-0066CC?style=for-the-badge&logo=cadence&logoColor=white" alt="OrCAD" />
-  <img src="https://img.shields.io/badge/ADS_(Advanced_Design_System)-E91E63?style=for-the-badge&logo=keysight&logoColor=white" alt="ADS (Advanced Design System)" />
+  <img src="https://img.shields.io/badge/Altium_Designer-D4AF37?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjx0ZXh0IHg9IjEyIiB5PSIxOCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPkE8L3RleHQ+PC9zdmc+&logoColor=white" alt="Altium Designer" />
+  <img src="https://img.shields.io/badge/OrCAD-0066CC?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjx0ZXh0IHg9IjEyIiB5PSIxOCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPkM8L3RleHQ+PC9zdmc+&logoColor=white" alt="OrCAD" />
+  <img src="https://img.shields.io/badge/ADS_(Advanced_Design_System)-E91E63?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjx0ZXh0IHg9IjEyIiB5PSIxOCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPks8L3RleHQ+PC9zdmc+&logoColor=white" alt="ADS (Advanced Design System)" />
   <img src="https://img.shields.io/badge/HFSS-0071C5?style=for-the-badge&logo=ansys&logoColor=white" alt="HFSS" />
   <img src="https://img.shields.io/badge/CST_Microwave_Studio-4CAF50?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CST Microwave Studio" />
-  <img src="https://img.shields.io/badge/OpenEMS-9C27B0?style=for-the-badge&logo=gnu&logoColor=white" alt="OpenEMS" />
+  <img src="https://img.shields.io/badge/OpenEMS-9C27B0?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyIEwxMy4wOSA4LjI2IEwyMCA5IEwxMy4wOSAxNS43NCBMMTIgMjIgTDEwLjkxIDE1Ljc0IEw0IDkgTDEwLjkxIDguMjYgWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="OpenEMS" />
 </p>
 
 ### Embedded Platforms
