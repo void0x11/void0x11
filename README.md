@@ -77,6 +77,13 @@
 </td>
 <td align="center" width="180">
   <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/octave/octave-original.svg" width="64" height="64" alt="Octave" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Octave-FF9800?style=for-the-badge&logo=octave&logoColor=white" alt="Octave" />
+</td>
+<td align="center" width="180">
+  <a href="#">
     <img src="https://cdn.simpleicons.org/rust/CE412B" width="64" height="64" alt="Rust" />
   </a>
   <br />
@@ -156,7 +163,6 @@
   <img src="https://img.shields.io/badge/HFSS-0071C5?style=for-the-badge&logo=ansys&logoColor=white" alt="HFSS" />
   <img src="https://img.shields.io/badge/CST_Microwave_Studio-4CAF50?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="CST Microwave Studio" />
   <img src="https://img.shields.io/badge/OpenEMS-9C27B0?style=for-the-badge&logo=gnu&logoColor=white" alt="OpenEMS" />
-  <img src="https://img.shields.io/badge/Octave-FF9800?style=for-the-badge&logo=octave&logoColor=white" alt="Octave" />
 </p>
 
 ### Embedded Platforms
