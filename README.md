@@ -41,9 +41,9 @@
 
 ## 🏆 Badges
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
+<div align="center">
 
-<div style="text-align: center;">
+<div style="display: inline-block; vertical-align: top; margin: 0 20px; text-align: center;">
   <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="130" style="border: none; outline: none; display: block; margin: 0 auto;"/>
   </a>
@@ -55,7 +55,7 @@
   </div>
 </div>
 
-<div style="text-align: center;">
+<div style="display: inline-block; vertical-align: top; margin: 0 20px; text-align: center;">
   <a href="https://badges.parchment.com/public/assertions/gzgyFlNbTQujp4shsb9MPw?identity__email=ahmedmohamed6071@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="130" style="border: none; outline: none; display: block; margin: 0 auto;"/>
   </a>
