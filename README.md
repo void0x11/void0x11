@@ -85,34 +85,15 @@
   </a>
   <br />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge" alt="C++" />
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://github.com/amnxlab/amnxlab/blob/main/icons8-c-programming.svg?raw=true" width="64" height="64" alt="C" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge" alt="C" />
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" alt="Python" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python" />
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="64" height="64" alt="Octave" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge" alt="Octave" />
-</td>
-<td align="center" width="180">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
+
+  <div align="center">
+
+  |  |  |
+  | --- | --- |
+  | <a href="https://certifications.certnexus.com/eac98840-0fe8-49a2-adbc-b1b10d91f117#acc.N7elx2vA" target="_blank"><img src="https://github.com/amnxlab/amnxlab/blob/main/OrCAD_Capture_Badge.png?raw=true" alt="OrCAD Certified" height="130"></a> | <a href="https://badges.parchment.com/public/assertions/gzgyFlNbTQujp4shsb9MPw?identity__email=ahmedmohamed6071@gmail.com" target="_blank"><img src="https://github.com/amnxlab/amnxlab/blob/main/assertion-gzgyFlNbTQujp4shsb9MPw.png?raw=true" alt="Industry Challenge Lab" height="130"></a> |
+  | **OrCAD Certified Essentials 23.1**<br><sub>**CertNexus**</sub> | **Industry Challenge Lab**<br><sub>**Southern Utah University**</sub> |
+
+  </div>
 </td>
 <td align="center" width="180">
   <a href="#">
